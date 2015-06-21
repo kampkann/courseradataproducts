@@ -1,0 +1,1692 @@
+"","Year","State","Crop","Area","Produced"
+"1",1998,"ANDHRA PRADESH                ","BAJRA",127300,119100
+"2",1999,"ANDHRA PRADESH                ","BAJRA",116603,97442
+"3",2000,"ANDHRA PRADESH                ","BAJRA",143704,148488
+"4",2001,"ANDHRA PRADESH                ","BAJRA",91535,71031
+"5",2002,"ANDHRA PRADESH                ","BAJRA",86000,56300
+"6",2003,"ANDHRA PRADESH                ","BAJRA",129000,141200
+"7",2004,"ANDHRA PRADESH                ","BAJRA",93569,81283
+"8",2005,"ANDHRA PRADESH                ","BAJRA",80991,82152
+"9",2006,"ANDHRA PRADESH                ","BAJRA",61076,46974
+"10",2007,"ANDHRA PRADESH                ","BAJRA",74000,92000
+"11",2008,"ANDHRA PRADESH                ","BAJRA",59118,60189
+"12",2009,"ANDHRA PRADESH                ","BAJRA",45349,53355
+"13",1998,"BIHAR                         ","BAJRA",6180,3640
+"14",1999,"BIHAR                         ","BAJRA",1629,990
+"15",2000,"BIHAR                         ","BAJRA",1534,1266
+"16",2001,"BIHAR                         ","BAJRA",828,598
+"17",2002,"BIHAR                         ","BAJRA",1018,1048
+"18",2003,"BIHAR                         ","BAJRA",1568,1638
+"19",2004,"BIHAR                         ","BAJRA",1200,1297
+"20",2005,"BIHAR                         ","BAJRA",4338,4591
+"21",2006,"BIHAR                         ","BAJRA",4106,4417
+"22",2007,"BIHAR                         ","BAJRA",3497,3856
+"23",2008,"BIHAR                         ","BAJRA",2960,3547
+"24",2000,"CHHATTISGARH                  ","BAJRA",78,31
+"25",2001,"CHHATTISGARH                  ","BAJRA",80,36
+"26",2002,"CHHATTISGARH                  ","BAJRA",66,26
+"27",2003,"CHHATTISGARH                  ","BAJRA",47,19
+"28",2004,"CHHATTISGARH                  ","BAJRA",49,17
+"29",2005,"CHHATTISGARH                  ","BAJRA",81,31
+"30",2006,"CHHATTISGARH                  ","BAJRA",71,34
+"31",2007,"CHHATTISGARH                  ","BAJRA",67,31
+"32",2008,"CHHATTISGARH                  ","BAJRA",121,48
+"33",2009,"CHHATTISGARH                  ","BAJRA",57,20
+"34",2010,"CHHATTISGARH                  ","BAJRA",76,37
+"35",1998,"DELHI                         ","BAJRA",2595,2091
+"36",1999,"DELHI                         ","BAJRA",2719,3749
+"37",2000,"DELHI                         ","BAJRA",3119,4634
+"38",2001,"DELHI                         ","BAJRA",2632,5140
+"39",2002,"DELHI                         ","BAJRA",1552,2804
+"40",2003,"DELHI                         ","BAJRA",2334,3762
+"41",2004,"DELHI                         ","BAJRA",1708,3117
+"42",2005,"DELHI                         ","BAJRA",1690,3031
+"43",2006,"DELHI                         ","BAJRA",1592,2945
+"44",2007,"DELHI                         ","BAJRA",1586,3013
+"45",1998,"GUJARAT                       ","BAJRA",995486,1187873
+"46",1999,"GUJARAT                       ","BAJRA",926200,850600
+"47",2000,"GUJARAT                       ","BAJRA",989200,823100
+"48",2001,"GUJARAT                       ","BAJRA",939800,1262300
+"49",2002,"GUJARAT                       ","BAJRA",940200,907000
+"50",2003,"GUJARAT                       ","BAJRA",1071200,1599800
+"51",2004,"GUJARAT                       ","BAJRA",915100,1089000
+"52",2005,"GUJARAT                       ","BAJRA",946000,1205800
+"53",2006,"GUJARAT                       ","BAJRA",925700,956900
+"54",2007,"GUJARAT                       ","BAJRA",921600,1306600
+"55",2008,"GUJARAT                       ","BAJRA",703300,961300
+"56",2009,"GUJARAT                       ","BAJRA",673000,828800
+"57",2010,"GUJARAT                       ","BAJRA",872400,1500900
+"58",1998,"HARYANA                       ","BAJRA",612311,618000
+"59",1999,"HARYANA                       ","BAJRA",586877,582000
+"60",2000,"HARYANA                       ","BAJRA",608321,656000
+"61",2001,"HARYANA                       ","BAJRA",585474,832000
+"62",2002,"HARYANA                       ","BAJRA",513720,458000
+"63",2003,"HARYANA                       ","BAJRA",624014,884300
+"64",2004,"HARYANA                       ","BAJRA",564924,746000
+"65",2005,"HARYANA                       ","BAJRA",631290,706000
+"66",2006,"HARYANA                       ","BAJRA",618622,1021000
+"67",2007,"HARYANA                       ","BAJRA",627550,1156000
+"68",2008,"HARYANA                       ","BAJRA",612601,1087000
+"69",2009,"HARYANA                       ","BAJRA",582788,930000
+"70",1998,"HIMACHAL PRADESH              ","BAJRA",469,266
+"71",2000,"HIMACHAL PRADESH              ","BAJRA",116,41
+"72",2001,"HIMACHAL PRADESH              ","BAJRA",110,57
+"73",2002,"HIMACHAL PRADESH              ","BAJRA",102,57
+"74",2003,"HIMACHAL PRADESH              ","BAJRA",312,173
+"75",2004,"HIMACHAL PRADESH              ","BAJRA",281,150
+"76",2005,"HIMACHAL PRADESH              ","BAJRA",304,144
+"77",2006,"HIMACHAL PRADESH              ","BAJRA",360,181
+"78",2008,"HIMACHAL PRADESH              ","BAJRA",203,113
+"79",2010,"HIMACHAL PRADESH              ","BAJRA",208,111
+"80",1999,"JAMMU & KASHMIR               ","BAJRA",13357,6396.7
+"81",2000,"JAMMU & KASHMIR               ","BAJRA",13340,6188.2
+"82",2001,"JAMMU & KASHMIR               ","BAJRA",13571,8056
+"83",2002,"JAMMU & KASHMIR               ","BAJRA",13400,7980
+"84",2003,"JAMMU & KASHMIR               ","BAJRA",16696,9978
+"85",2004,"JAMMU & KASHMIR               ","BAJRA",16045,9560
+"86",2007,"JAMMU & KASHMIR               ","BAJRA",10936,6461
+"87",1998,"KARNATAKA                     ","BAJRA",417113,283265
+"88",1999,"KARNATAKA                     ","BAJRA",421185,251109
+"89",2000,"KARNATAKA                     ","BAJRA",462121,341625
+"90",2001,"KARNATAKA                     ","BAJRA",209505,112241
+"91",2002,"KARNATAKA                     ","BAJRA",304581,120071
+"92",2003,"KARNATAKA                     ","BAJRA",318745,191455
+"93",2004,"KARNATAKA                     ","BAJRA",444702,266108
+"94",2005,"KARNATAKA                     ","BAJRA",430884,390613
+"95",2006,"KARNATAKA                     ","BAJRA",387736,163361
+"96",2007,"KARNATAKA                     ","BAJRA",431855,334875
+"97",2008,"KARNATAKA                     ","BAJRA",265608,181089
+"98",2009,"KARNATAKA                     ","BAJRA",305106,131046
+"99",1999,"MADHYA PRADESH                ","BAJRA",137668,138796
+"100",2000,"MADHYA PRADESH                ","BAJRA",164003,204348
+"101",2001,"MADHYA PRADESH                ","BAJRA",161727,204585
+"102",2002,"MADHYA PRADESH                ","BAJRA",167581,124680.3
+"103",2003,"MADHYA PRADESH                ","BAJRA",201165,281430
+"104",2004,"MADHYA PRADESH                ","BAJRA",184058,248478
+"105",2005,"MADHYA PRADESH                ","BAJRA",182506,271934
+"106",2007,"MADHYA PRADESH                ","BAJRA",200929,275675
+"107",2008,"MADHYA PRADESH                ","BAJRA",171092,248854
+"108",1999,"MAHARASHTRA                   ","BAJRA",1720700,1126300
+"109",2000,"MAHARASHTRA                   ","BAJRA",1800000,1087200
+"110",2001,"MAHARASHTRA                   ","BAJRA",1399200,830800
+"111",2002,"MAHARASHTRA                   ","BAJRA",1547200,1146000
+"112",2003,"MAHARASHTRA                   ","BAJRA",1325400,896300
+"113",2004,"MAHARASHTRA                   ","BAJRA",1529100,1126300
+"114",2005,"MAHARASHTRA                   ","BAJRA",1433800,932000
+"115",2006,"MAHARASHTRA                   ","BAJRA",1452200,1058600
+"116",2007,"MAHARASHTRA                   ","BAJRA",12830,11269
+"117",2008,"MAHARASHTRA                   ","BAJRA",865400,661900
+"118",2009,"MAHARASHTRA                   ","BAJRA",1033500,766300
+"119",2010,"MAHARASHTRA                   ","BAJRA",1034600,1123500
+"120",1999,"NAGALAND                      ","BAJRA",1500,1250
+"121",2000,"NAGALAND                      ","BAJRA",1500,1250
+"122",2001,"NAGALAND                      ","BAJRA",1500,1000
+"123",2002,"NAGALAND                      ","BAJRA",2000,4000
+"124",2003,"NAGALAND                      ","BAJRA",3000,5000
+"125",2004,"NAGALAND                      ","BAJRA",2680,4000
+"126",2005,"NAGALAND                      ","BAJRA",3050,3130
+"127",2010,"NAGALAND                      ","BAJRA",520,450
+"128",1999,"ORISSA                        ","BAJRA",8,4
+"129",2000,"ORISSA                        ","BAJRA",4120,2350
+"130",2001,"ORISSA                        ","BAJRA",4010,2270
+"131",2002,"ORISSA                        ","BAJRA",3760,1820
+"132",2003,"ORISSA                        ","BAJRA",3270,1720
+"133",2004,"ORISSA                        ","BAJRA",3155,1609
+"134",1999,"PONDICHERRY                   ","BAJRA",170,470
+"135",2000,"PONDICHERRY                   ","BAJRA",186,513
+"136",2001,"PONDICHERRY                   ","BAJRA",162,345
+"137",2002,"PONDICHERRY                   ","BAJRA",207,397
+"138",2003,"PONDICHERRY                   ","BAJRA",197,383
+"139",1998,"PUNJAB                        ","BAJRA",4000,4000
+"140",1999,"PUNJAB                        ","BAJRA",5000,4000
+"141",2000,"PUNJAB                        ","BAJRA",6000,5000
+"142",2002,"PUNJAB                        ","BAJRA",7000,6000
+"143",2003,"PUNJAB                        ","BAJRA",8000,8000
+"144",2004,"PUNJAB                        ","BAJRA",7000,7000
+"145",2005,"PUNJAB                        ","BAJRA",5000,5000
+"146",2006,"PUNJAB                        ","BAJRA",4000,4000
+"147",2007,"PUNJAB                        ","BAJRA",3000,3000
+"148",2008,"PUNJAB                        ","BAJRA",5000,5000
+"149",2009,"PUNJAB                        ","BAJRA",3000,4000
+"150",2010,"PUNJAB                        ","BAJRA",3000,3000
+"151",1999,"RAJASTHAN                     ","BAJRA",3945217,1300764
+"152",2000,"RAJASTHAN                     ","BAJRA",4636922,2046659
+"153",2001,"RAJASTHAN                     ","BAJRA",5129949,3819783
+"154",2002,"RAJASTHAN                     ","BAJRA",3215390,717945.1
+"155",2003,"RAJASTHAN                     ","BAJRA",5868008,6669825
+"156",2004,"RAJASTHAN                     ","BAJRA",4486366,3011054
+"157",2005,"RAJASTHAN                     ","BAJRA",4993678,2168332
+"158",2006,"RAJASTHAN                     ","BAJRA",4910409,3440400
+"159",2007,"RAJASTHAN                     ","BAJRA",5108580,4240852
+"160",2008,"RAJASTHAN                     ","BAJRA",5206132,4293913
+"161",2009,"RAJASTHAN                     ","BAJRA",5223554,2034871
+"162",1998,"TAMIL NADU                    ","BAJRA",196002,309644
+"163",1999,"TAMIL NADU                    ","BAJRA",177406,258774
+"164",2000,"TAMIL NADU                    ","BAJRA",129260,170372
+"165",2001,"TAMIL NADU                    ","BAJRA",125093,152971
+"166",2002,"TAMIL NADU                    ","BAJRA",102020,88682
+"167",2003,"TAMIL NADU                    ","BAJRA",158851,172342
+"168",2004,"TAMIL NADU                    ","BAJRA",97608,124300
+"169",2005,"TAMIL NADU                    ","BAJRA",81925,94799
+"170",2006,"TAMIL NADU                    ","BAJRA",65512,98969
+"171",2007,"TAMIL NADU                    ","BAJRA",59798,85840
+"172",2008,"TAMIL NADU                    ","BAJRA",55899,84021
+"173",2009,"TAMIL NADU                    ","BAJRA",54427,82652
+"174",1999,"UTTAR PRADESH                 ","BAJRA",835019,1165247
+"175",2000,"UTTAR PRADESH                 ","BAJRA",881010,1277360
+"176",2001,"UTTAR PRADESH                 ","BAJRA",850727,967732
+"177",2002,"UTTAR PRADESH                 ","BAJRA",831306,1072525
+"178",2003,"UTTAR PRADESH                 ","BAJRA",924202,1188103
+"179",2004,"UTTAR PRADESH                 ","BAJRA",878399,1335462
+"180",2005,"UTTAR PRADESH                 ","BAJRA",869288,1246252
+"181",2006,"UTTAR PRADESH                 ","BAJRA",883877,1285887
+"182",2007,"UTTAR PRADESH                 ","BAJRA",876979,1336355
+"183",2008,"UTTAR PRADESH                 ","BAJRA",809300,1302073
+"184",2009,"UTTAR PRADESH                 ","BAJRA",848617,1388711
+"185",2010,"UTTAR PRADESH                 ","BAJRA",934722,1556246
+"186",2000,"UTTARANCHAL                   ","BAJRA",11,15
+"187",2001,"UTTARANCHAL                   ","BAJRA",44,57
+"188",2002,"UTTARANCHAL                   ","BAJRA",4,5
+"189",2003,"UTTARANCHAL                   ","BAJRA",3,3
+"190",2006,"UTTARANCHAL                   ","BAJRA",11,13
+"191",2007,"UTTARANCHAL                   ","BAJRA",42,40
+"192",2008,"UTTARANCHAL                   ","BAJRA",20,19
+"193",2009,"UTTARANCHAL                   ","BAJRA",1,1
+"194",1999,"WEST BENGAL                   ","BAJRA",146,96
+"195",2000,"WEST BENGAL                   ","BAJRA",313,256
+"196",2001,"WEST BENGAL                   ","BAJRA",425,322
+"197",2002,"WEST BENGAL                   ","BAJRA",332,252
+"198",2003,"WEST BENGAL                   ","BAJRA",258,179
+"199",2004,"WEST BENGAL                   ","BAJRA",129,45
+"200",2005,"WEST BENGAL                   ","BAJRA",55,19
+"201",2006,"WEST BENGAL                   ","BAJRA",79,31
+"202",2007,"WEST BENGAL                   ","BAJRA",64,23
+"203",2008,"WEST BENGAL                   ","BAJRA",75,26
+"204",2009,"WEST BENGAL                   ","BAJRA",53,23
+"205",1998,"BIHAR                         ","BARLEY",40907,47295
+"206",2000,"BIHAR                         ","BARLEY",22573,26499
+"207",2001,"BIHAR                         ","BARLEY",21300,26709
+"208",2002,"BIHAR                         ","BARLEY",20427,23432
+"209",2003,"BIHAR                         ","BARLEY",21446,24007
+"210",2004,"BIHAR                         ","BARLEY",17346,18284
+"211",2005,"BIHAR                         ","BARLEY",16001,16563
+"212",2006,"BIHAR                         ","BARLEY",18663,19921
+"213",2007,"BIHAR                         ","BARLEY",15402,18513
+"214",2008,"BIHAR                         ","BARLEY",14529,15898
+"215",2000,"CHHATTISGARH                  ","BARLEY",4611,3873
+"216",2001,"CHHATTISGARH                  ","BARLEY",4245,3481
+"217",2002,"CHHATTISGARH                  ","BARLEY",4017,3145
+"218",2003,"CHHATTISGARH                  ","BARLEY",4354,4337
+"219",2004,"CHHATTISGARH                  ","BARLEY",3959,3539
+"220",2005,"CHHATTISGARH                  ","BARLEY",3604,2981
+"221",2006,"CHHATTISGARH                  ","BARLEY",3485,2842
+"222",2007,"CHHATTISGARH                  ","BARLEY",3433,3981
+"223",2008,"CHHATTISGARH                  ","BARLEY",3182,2861
+"224",2009,"CHHATTISGARH                  ","BARLEY",3007,2310
+"225",2010,"CHHATTISGARH                  ","BARLEY",2253,1196
+"226",1998,"DELHI                         ","BARLEY",305,83
+"227",1999,"DELHI                         ","BARLEY",261,98
+"228",2000,"DELHI                         ","BARLEY",235,75
+"229",2001,"DELHI                         ","BARLEY",122,60
+"230",2002,"DELHI                         ","BARLEY",85,41
+"231",2003,"DELHI                         ","BARLEY",86,255
+"232",2004,"DELHI                         ","BARLEY",71,191
+"233",2005,"DELHI                         ","BARLEY",70,183
+"234",2006,"DELHI                         ","BARLEY",75,196
+"235",2007,"DELHI                         ","BARLEY",75,196
+"236",1998,"HARYANA                       ","BARLEY",35348,1e+05
+"237",1999,"HARYANA                       ","BARLEY",34744,102000
+"238",2000,"HARYANA                       ","BARLEY",44116,118000
+"239",2001,"HARYANA                       ","BARLEY",29673,86000
+"240",2002,"HARYANA                       ","BARLEY",30326,81000
+"241",2003,"HARYANA                       ","BARLEY",27100,73000
+"242",2004,"HARYANA                       ","BARLEY",21725,58000
+"243",2005,"HARYANA                       ","BARLEY",27903,79000
+"244",2006,"HARYANA                       ","BARLEY",37029,115000
+"245",2007,"HARYANA                       ","BARLEY",39034,120000
+"246",2008,"HARYANA                       ","BARLEY",52205,185000
+"247",2009,"HARYANA                       ","BARLEY",41338,137000
+"248",1998,"HIMACHAL PRADESH              ","BARLEY",26752,27756
+"249",1999,"HIMACHAL PRADESH              ","BARLEY",25901,32496
+"250",2000,"HIMACHAL PRADESH              ","BARLEY",25639,21414
+"251",2001,"HIMACHAL PRADESH              ","BARLEY",25017,34687
+"252",2002,"HIMACHAL PRADESH              ","BARLEY",23596,30614
+"253",2003,"HIMACHAL PRADESH              ","BARLEY",24324,25393
+"254",2004,"HIMACHAL PRADESH              ","BARLEY",24427,33713
+"255",2005,"HIMACHAL PRADESH              ","BARLEY",25235,29361
+"256",2006,"HIMACHAL PRADESH              ","BARLEY",24098,33865
+"257",2007,"HIMACHAL PRADESH              ","BARLEY",23509,30675
+"258",2008,"HIMACHAL PRADESH              ","BARLEY",22601,20447
+"259",1999,"JAMMU & KASHMIR               ","BARLEY",11147,5197.6
+"260",2000,"JAMMU & KASHMIR               ","BARLEY",8926,4436
+"261",2001,"JAMMU & KASHMIR               ","BARLEY",10023,4928
+"262",2002,"JAMMU & KASHMIR               ","BARLEY",10512,5363.1
+"263",2003,"JAMMU & KASHMIR               ","BARLEY",13921,8188
+"264",2004,"JAMMU & KASHMIR               ","BARLEY",9936,4990
+"265",2007,"JAMMU & KASHMIR               ","BARLEY",5257,3189.9
+"266",2003,"JHARKHAND                     ","BARLEY",4519.82,3989.28
+"267",2004,"JHARKHAND                     ","BARLEY",2962.57,1801.24
+"268",1999,"MADHYA PRADESH                ","BARLEY",84318,100751
+"269",2000,"MADHYA PRADESH                ","BARLEY",82716,92394
+"270",2001,"MADHYA PRADESH                ","BARLEY",83716,107764
+"271",2002,"MADHYA PRADESH                ","BARLEY",80761,101517
+"272",2003,"MADHYA PRADESH                ","BARLEY",84256,123182
+"273",2004,"MADHYA PRADESH                ","BARLEY",82522,102327
+"274",2005,"MADHYA PRADESH                ","BARLEY",79165,98560
+"275",2007,"MADHYA PRADESH                ","BARLEY",63722,64869
+"276",2008,"MADHYA PRADESH                ","BARLEY",63711,91493
+"277",2000,"NAGALAND                      ","BARLEY",1000,1500
+"278",2001,"NAGALAND                      ","BARLEY",4000,8000
+"279",2002,"NAGALAND                      ","BARLEY",5000,9500
+"280",2003,"NAGALAND                      ","BARLEY",6000,10000
+"281",2004,"NAGALAND                      ","BARLEY",4400,7000
+"282",2010,"NAGALAND                      ","BARLEY",370,600
+"283",1998,"PUNJAB                        ","BARLEY",31000,1e+05
+"284",1999,"PUNJAB                        ","BARLEY",30000,106000
+"285",2000,"PUNJAB                        ","BARLEY",32000,109000
+"286",2001,"PUNJAB                        ","BARLEY",23000,78000
+"287",2002,"PUNJAB                        ","BARLEY",26000,85000
+"288",2003,"PUNJAB                        ","BARLEY",23000,77000
+"289",2004,"PUNJAB                        ","BARLEY",22000,74000
+"290",2005,"PUNJAB                        ","BARLEY",19000,63000
+"291",2006,"PUNJAB                        ","BARLEY",19000,64000
+"292",2007,"PUNJAB                        ","BARLEY",15000,54000
+"293",2008,"PUNJAB                        ","BARLEY",15000,52000
+"294",2009,"PUNJAB                        ","BARLEY",13000,44000
+"295",2010,"PUNJAB                        ","BARLEY",11000,41000
+"296",1999,"RAJASTHAN                     ","BARLEY",180861,365249
+"297",2000,"RAJASTHAN                     ","BARLEY",225128,408688
+"298",2001,"RAJASTHAN                     ","BARLEY",173664,446645
+"299",2002,"RAJASTHAN                     ","BARLEY",191945,447087
+"300",2003,"RAJASTHAN                     ","BARLEY",181815,408791
+"301",2004,"RAJASTHAN                     ","BARLEY",175414,417605
+"302",2005,"RAJASTHAN                     ","BARLEY",201626,457989
+"303",2006,"RAJASTHAN                     ","BARLEY",232269,591582
+"304",2007,"RAJASTHAN                     ","BARLEY",249165,538982
+"305",2008,"RAJASTHAN                     ","BARLEY",284706,874435
+"306",2009,"RAJASTHAN                     ","BARLEY",221176,615133
+"307",1998,"SIKKIM                        ","BARLEY",1130,1217
+"308",1999,"SIKKIM                        ","BARLEY",1140,1677
+"309",2000,"SIKKIM                        ","BARLEY",1140,1210
+"310",2001,"SIKKIM                        ","BARLEY",1180,1332
+"311",2002,"SIKKIM                        ","BARLEY",1230,1500
+"312",2003,"SIKKIM                        ","BARLEY",1230,1510
+"313",2004,"SIKKIM                        ","BARLEY",1230,1520
+"314",2005,"SIKKIM                        ","BARLEY",1230,1590
+"315",2006,"SIKKIM                        ","BARLEY",1150,1270
+"316",2007,"SIKKIM                        ","BARLEY",710,660
+"317",2008,"SIKKIM                        ","BARLEY",500,470
+"318",2009,"SIKKIM                        ","BARLEY",1000,920
+"319",2010,"SIKKIM                        ","BARLEY",640,609
+"320",1999,"UTTAR PRADESH                 ","BARLEY",312769,697504
+"321",2000,"UTTAR PRADESH                 ","BARLEY",286886,604453
+"322",2001,"UTTAR PRADESH                 ","BARLEY",253713,592021
+"323",2002,"UTTAR PRADESH                 ","BARLEY",242586,556740
+"324",2003,"UTTAR PRADESH                 ","BARLEY",233928,516818
+"325",2004,"UTTAR PRADESH                 ","BARLEY",209126,413054
+"326",2005,"UTTAR PRADESH                 ","BARLEY",214717,413368
+"327",2006,"UTTAR PRADESH                 ","BARLEY",193273,386300
+"328",2007,"UTTAR PRADESH                 ","BARLEY",155298,327908
+"329",2008,"UTTAR PRADESH                 ","BARLEY",171861,376048
+"330",2009,"UTTAR PRADESH                 ","BARLEY",171382,362278
+"331",2010,"UTTAR PRADESH                 ","BARLEY",160617,398232
+"332",2000,"UTTARANCHAL                   ","BARLEY",25797,25064
+"333",2001,"UTTARANCHAL                   ","BARLEY",22875,25590
+"334",2002,"UTTARANCHAL                   ","BARLEY",25664,31566
+"335",2003,"UTTARANCHAL                   ","BARLEY",24940,25126
+"336",2004,"UTTARANCHAL                   ","BARLEY",24180,33514
+"337",2005,"UTTARANCHAL                   ","BARLEY",23420,16754
+"338",2006,"UTTARANCHAL                   ","BARLEY",24080,27699
+"339",2007,"UTTARANCHAL                   ","BARLEY",24704,25856
+"340",2008,"UTTARANCHAL                   ","BARLEY",22596,19351
+"341",2009,"UTTARANCHAL                   ","BARLEY",22206,24831
+"342",1999,"WEST BENGAL                   ","BARLEY",5077,4686
+"343",2000,"WEST BENGAL                   ","BARLEY",3471,1820
+"344",2001,"WEST BENGAL                   ","BARLEY",2622,2825
+"345",2002,"WEST BENGAL                   ","BARLEY",2459,2341
+"346",2003,"WEST BENGAL                   ","BARLEY",3077,4142
+"347",2004,"WEST BENGAL                   ","BARLEY",2421,4047
+"348",2005,"WEST BENGAL                   ","BARLEY",2403,3000
+"349",2006,"WEST BENGAL                   ","BARLEY",2848,2610
+"350",2007,"WEST BENGAL                   ","BARLEY",2058,2709
+"351",2008,"WEST BENGAL                   ","BARLEY",2768,4202
+"352",2009,"WEST BENGAL                   ","BARLEY",1749,2352
+"353",1998,"ANDHRA PRADESH                ","JOWAR",752400,522900
+"354",1999,"ANDHRA PRADESH                ","JOWAR",735929,535700
+"355",2000,"ANDHRA PRADESH                ","JOWAR",676928,618988
+"356",2001,"ANDHRA PRADESH                ","JOWAR",639329,634051
+"357",2002,"ANDHRA PRADESH                ","JOWAR",624000,607400
+"358",2003,"ANDHRA PRADESH                ","JOWAR",648000,739000
+"359",2004,"ANDHRA PRADESH                ","JOWAR",500393,515557
+"360",2005,"ANDHRA PRADESH                ","JOWAR",444096,588027
+"361",2006,"ANDHRA PRADESH                ","JOWAR",422416,410592
+"362",2007,"ANDHRA PRADESH                ","JOWAR",331000,466000
+"363",2008,"ANDHRA PRADESH                ","JOWAR",278584,435782
+"364",2009,"ANDHRA PRADESH                ","JOWAR",384834,437202
+"365",1998,"BIHAR                         ","JOWAR",2635,2477
+"366",1999,"BIHAR                         ","JOWAR",28442,38407
+"367",2000,"BIHAR                         ","JOWAR",1087,994
+"368",2001,"BIHAR                         ","JOWAR",4388,3712
+"369",2002,"BIHAR                         ","JOWAR",4402,4446
+"370",2003,"BIHAR                         ","JOWAR",1513,1527
+"371",2004,"BIHAR                         ","JOWAR",3755,3807
+"372",2005,"BIHAR                         ","JOWAR",4112,4236
+"373",2006,"BIHAR                         ","JOWAR",3397,3507
+"374",2007,"BIHAR                         ","JOWAR",3426,3761
+"375",2008,"BIHAR                         ","JOWAR",2399,2543
+"376",2000,"CHHATTISGARH                  ","JOWAR",10386,6907
+"377",2001,"CHHATTISGARH                  ","JOWAR",9423,9169
+"378",2002,"CHHATTISGARH                  ","JOWAR",7798,5770
+"379",2003,"CHHATTISGARH                  ","JOWAR",7595,7603
+"380",2004,"CHHATTISGARH                  ","JOWAR",8388,4902
+"381",2005,"CHHATTISGARH                  ","JOWAR",8455,5827
+"382",2006,"CHHATTISGARH                  ","JOWAR",5192,5206
+"383",2007,"CHHATTISGARH                  ","JOWAR",6988,7103
+"384",2008,"CHHATTISGARH                  ","JOWAR",4707,6165
+"385",2009,"CHHATTISGARH                  ","JOWAR",5074,6350
+"386",2010,"CHHATTISGARH                  ","JOWAR",5094,7330
+"387",1999,"D & N HAVELI                  ","JOWAR",474,379
+"388",2000,"D & N HAVELI                  ","JOWAR",529,447
+"389",2001,"D & N HAVELI                  ","JOWAR",501,558
+"390",2002,"D & N HAVELI                  ","JOWAR",528,588
+"391",2003,"D & N HAVELI                  ","JOWAR",537,564
+"392",2004,"D & N HAVELI                  ","JOWAR",571,476
+"393",1998,"DELHI                         ","JOWAR",9052,4058
+"394",1999,"DELHI                         ","JOWAR",8515,3681
+"395",2000,"DELHI                         ","JOWAR",8625,8177
+"396",2001,"DELHI                         ","JOWAR",8627,8140
+"397",2002,"DELHI                         ","JOWAR",9273,4015
+"398",2003,"DELHI                         ","JOWAR",8686,10727
+"399",2004,"DELHI                         ","JOWAR",9208,6350
+"400",2005,"DELHI                         ","JOWAR",8912,7843
+"401",2006,"DELHI                         ","JOWAR",8840,8354
+"402",2007,"DELHI                         ","JOWAR",8837,8262
+"403",1998,"GUJARAT                       ","JOWAR",238604,211703
+"404",1999,"GUJARAT                       ","JOWAR",216000,260100
+"405",2000,"GUJARAT                       ","JOWAR",163200,98100
+"406",2001,"GUJARAT                       ","JOWAR",182400,169300
+"407",2002,"GUJARAT                       ","JOWAR",155700,121700
+"408",2003,"GUJARAT                       ","JOWAR",172600,173600
+"409",2004,"GUJARAT                       ","JOWAR",121800,134400
+"410",2005,"GUJARAT                       ","JOWAR",129100,157000
+"411",2006,"GUJARAT                       ","JOWAR",146500,149300
+"412",2007,"GUJARAT                       ","JOWAR",128000,156400
+"413",2008,"GUJARAT                       ","JOWAR",174200,208200
+"414",2009,"GUJARAT                       ","JOWAR",163400,171300
+"415",2010,"GUJARAT                       ","JOWAR",125800,139000
+"416",1998,"HARYANA                       ","JOWAR",124457,25000
+"417",1999,"HARYANA                       ","JOWAR",111819,22000
+"418",2000,"HARYANA                       ","JOWAR",109354,27800
+"419",2001,"HARYANA                       ","JOWAR",103814,22000
+"420",2002,"HARYANA                       ","JOWAR",113069,22000
+"421",2003,"HARYANA                       ","JOWAR",100945,26000
+"422",2004,"HARYANA                       ","JOWAR",94306,26000
+"423",2005,"HARYANA                       ","JOWAR",88843,26000
+"424",2006,"HARYANA                       ","JOWAR",88765,27000
+"425",2007,"HARYANA                       ","JOWAR",90478,41000
+"426",2008,"HARYANA                       ","JOWAR",86109,44000
+"427",2009,"HARYANA                       ","JOWAR",77102,390
+"428",2000,"HIMACHAL PRADESH              ","JOWAR",287,89.2
+"429",1999,"JAMMU & KASHMIR               ","JOWAR",6,1.2
+"430",2001,"JAMMU & KASHMIR               ","JOWAR",7,4
+"431",2002,"JAMMU & KASHMIR               ","JOWAR",129,32
+"432",2004,"JAMMU & KASHMIR               ","JOWAR",5977,3586
+"433",1998,"KARNATAKA                     ","JOWAR",1849867,1643239
+"434",1999,"KARNATAKA                     ","JOWAR",2023717,1790741
+"435",2000,"KARNATAKA                     ","JOWAR",1782262,1546921
+"436",2001,"KARNATAKA                     ","JOWAR",1790815,1372066
+"437",2002,"KARNATAKA                     ","JOWAR",1786237,1224893
+"438",2003,"KARNATAKA                     ","JOWAR",1698177,781003
+"439",2004,"KARNATAKA                     ","JOWAR",1662793,1358582
+"440",2005,"KARNATAKA                     ","JOWAR",1520137,1478776
+"441",2006,"KARNATAKA                     ","JOWAR",1419311,1129547
+"442",2007,"KARNATAKA                     ","JOWAR",1382177,1670022
+"443",2008,"KARNATAKA                     ","JOWAR",1381882,1483620
+"444",2009,"KARNATAKA                     ","JOWAR",1369410,1296179
+"445",1998,"KERALA                        ","JOWAR",2177,1108
+"446",1999,"KERALA                        ","JOWAR",2528,1287
+"447",2000,"KERALA                        ","JOWAR",463,236
+"448",2001,"KERALA                        ","JOWAR",2902,1478.1
+"449",2002,"KERALA                        ","JOWAR",2571,1311
+"450",2003,"KERALA                        ","JOWAR",2129,1087
+"451",2004,"KERALA                        ","JOWAR",2566,1309
+"452",2005,"KERALA                        ","JOWAR",2448,1248
+"453",2006,"KERALA                        ","JOWAR",1819,929
+"454",2007,"KERALA                        ","JOWAR",3083,1573
+"455",2008,"KERALA                        ","JOWAR",2306,1177
+"456",2009,"KERALA                        ","JOWAR",2547,1305
+"457",1999,"MADHYA PRADESH                ","JOWAR",673471,526654
+"458",2000,"MADHYA PRADESH                ","JOWAR",623006,446695
+"459",2001,"MADHYA PRADESH                ","JOWAR",627132,566300
+"460",2002,"MADHYA PRADESH                ","JOWAR",640518,589917
+"461",2003,"MADHYA PRADESH                ","JOWAR",771932,940985
+"462",2004,"MADHYA PRADESH                ","JOWAR",633060,608371
+"463",2005,"MADHYA PRADESH                ","JOWAR",568721,596107
+"464",2007,"MADHYA PRADESH                ","JOWAR",534901,590531
+"465",2008,"MADHYA PRADESH                ","JOWAR",465206,563725
+"466",1999,"MAHARASHTRA                   ","JOWAR",5118400,4630000
+"467",2000,"MAHARASHTRA                   ","JOWAR",5093500,3987800
+"468",2001,"MAHARASHTRA                   ","JOWAR",5137000,3909600
+"469",2002,"MAHARASHTRA                   ","JOWAR",4804300,3882400
+"470",2003,"MAHARASHTRA                   ","JOWAR",4440000,2888300
+"471",2004,"MAHARASHTRA                   ","JOWAR",4756100,3623300
+"472",2006,"MAHARASHTRA                   ","JOWAR",4618100,3781700
+"473",2007,"MAHARASHTRA                   ","JOWAR",41475,40032
+"474",2008,"MAHARASHTRA                   ","JOWAR",3826500,3091400
+"475",2009,"MAHARASHTRA                   ","JOWAR",4176300,3565544
+"476",2010,"MAHARASHTRA                   ","JOWAR",4060100,3452300
+"477",1999,"NAGALAND                      ","JOWAR",1650,2320
+"478",2000,"NAGALAND                      ","JOWAR",1500,1250
+"479",2001,"NAGALAND                      ","JOWAR",1500,1200
+"480",2002,"NAGALAND                      ","JOWAR",2000,4000
+"481",2003,"NAGALAND                      ","JOWAR",3000,5000
+"482",2004,"NAGALAND                      ","JOWAR",2500,4000
+"483",2005,"NAGALAND                      ","JOWAR",550,820
+"484",2006,"NAGALAND                      ","JOWAR",1000,750
+"485",2007,"NAGALAND                      ","JOWAR",800,1050
+"486",2008,"NAGALAND                      ","JOWAR",140,130
+"487",2010,"NAGALAND                      ","JOWAR",120,110
+"488",1999,"ORISSA                        ","JOWAR",26,16
+"489",2000,"ORISSA                        ","JOWAR",13000,7480
+"490",2001,"ORISSA                        ","JOWAR",12260,7090
+"491",2002,"ORISSA                        ","JOWAR",11000,5720
+"492",2003,"ORISSA                        ","JOWAR",11090,6380
+"493",2004,"ORISSA                        ","JOWAR",10071,5451
+"494",1999,"PONDICHERRY                   ","JOWAR",3,3
+"495",2000,"PONDICHERRY                   ","JOWAR",6,6
+"496",2006,"PUNJAB                        ","JOWAR",100,100
+"497",2007,"PUNJAB                        ","JOWAR",100,100
+"498",2008,"PUNJAB                        ","JOWAR",100,100
+"499",2009,"PUNJAB                        ","JOWAR",100,100
+"500",1999,"RAJASTHAN                     ","JOWAR",555944,178223
+"501",2000,"RAJASTHAN                     ","JOWAR",673989,134525
+"502",2001,"RAJASTHAN                     ","JOWAR",614653,254398
+"503",2002,"RAJASTHAN                     ","JOWAR",523116,68484
+"504",2003,"RAJASTHAN                     ","JOWAR",738999,527422
+"505",2004,"RAJASTHAN                     ","JOWAR",568609,263895
+"506",2005,"RAJASTHAN                     ","JOWAR",592091,169732
+"507",2006,"RAJASTHAN                     ","JOWAR",662055,367816
+"508",2007,"RAJASTHAN                     ","JOWAR",623119,392653
+"509",2008,"RAJASTHAN                     ","JOWAR",576263,332553
+"510",2009,"RAJASTHAN                     ","JOWAR",715662,103929
+"511",1998,"TAMIL NADU                    ","JOWAR",498583,585616
+"512",1999,"TAMIL NADU                    ","JOWAR",491707,484265
+"513",2000,"TAMIL NADU                    ","JOWAR",331344,306020
+"514",2001,"TAMIL NADU                    ","JOWAR",317233,274842
+"515",2002,"TAMIL NADU                    ","JOWAR",319607,210793
+"516",2003,"TAMIL NADU                    ","JOWAR",401607,245933
+"517",2004,"TAMIL NADU                    ","JOWAR",376739,252063
+"518",2005,"TAMIL NADU                    ","JOWAR",316274,231449
+"519",2006,"TAMIL NADU                    ","JOWAR",294376,293940
+"520",2007,"TAMIL NADU                    ","JOWAR",283526,247836
+"521",2008,"TAMIL NADU                    ","JOWAR",225736,213436
+"522",2009,"TAMIL NADU                    ","JOWAR",238476,221960
+"523",1999,"UTTAR PRADESH                 ","JOWAR",358812,320643
+"524",2000,"UTTAR PRADESH                 ","JOWAR",347427,329499
+"525",2001,"UTTAR PRADESH                 ","JOWAR",322575,309068
+"526",2002,"UTTAR PRADESH                 ","JOWAR",268145,244099
+"527",2003,"UTTAR PRADESH                 ","JOWAR",300167,298075
+"528",2004,"UTTAR PRADESH                 ","JOWAR",243547,249206
+"529",2005,"UTTAR PRADESH                 ","JOWAR",227183,241858
+"530",2006,"UTTAR PRADESH                 ","JOWAR",231290,238052
+"531",2007,"UTTAR PRADESH                 ","JOWAR",211640,172805
+"532",2008,"UTTAR PRADESH                 ","JOWAR",192564,195473
+"533",2009,"UTTAR PRADESH                 ","JOWAR",190976,169571
+"534",2010,"UTTAR PRADESH                 ","JOWAR",196895,204549
+"535",2005,"UTTARANCHAL                   ","JOWAR",3,2
+"536",1999,"WEST BENGAL                   ","JOWAR",1156,540
+"537",2000,"WEST BENGAL                   ","JOWAR",1016,521
+"538",2001,"WEST BENGAL                   ","JOWAR",1269,733
+"539",2002,"WEST BENGAL                   ","JOWAR",1718,1309
+"540",2003,"WEST BENGAL                   ","JOWAR",1283,616
+"541",2004,"WEST BENGAL                   ","JOWAR",1498,649
+"542",2005,"WEST BENGAL                   ","JOWAR",1439,562
+"543",2006,"WEST BENGAL                   ","JOWAR",1395,606
+"544",2007,"WEST BENGAL                   ","JOWAR",1659,698
+"545",2008,"WEST BENGAL                   ","JOWAR",1126,469
+"546",2009,"WEST BENGAL                   ","JOWAR",1479,632
+"547",1998,"ANDHRA PRADESH                ","KORRA",40200,28600
+"548",2000,"ANDHRA PRADESH                ","KORRA",32965,24496
+"549",2001,"ANDHRA PRADESH                ","KORRA",26148,18359
+"550",2002,"ANDHRA PRADESH                ","KORRA",18000,11100
+"551",2003,"ANDHRA PRADESH                ","KORRA",24245,18318
+"552",1999,"TAMIL NADU                    ","KORRA",4517,2030
+"553",2002,"TAMIL NADU                    ","KORRA",1024,519
+"554",2003,"TAMIL NADU                    ","KORRA",2210,1091
+"555",2007,"A & N ISLANDS                 ","MAIZE",230.81,879.36
+"556",2008,"A & N ISLANDS                 ","MAIZE",239,641
+"557",2009,"A & N ISLANDS                 ","MAIZE",163,405
+"558",1998,"ANDHRA PRADESH                ","MAIZE",398600,1383500
+"559",1999,"ANDHRA PRADESH                ","MAIZE",452008,1472694
+"560",2000,"ANDHRA PRADESH                ","MAIZE",527667,1580767
+"561",2001,"ANDHRA PRADESH                ","MAIZE",428285,1456755
+"562",2002,"ANDHRA PRADESH                ","MAIZE",526000,1482200
+"563",2003,"ANDHRA PRADESH                ","MAIZE",722000,2477000
+"564",2004,"ANDHRA PRADESH                ","MAIZE",656832,2063542
+"565",2005,"ANDHRA PRADESH                ","MAIZE",757962,3086901
+"566",2006,"ANDHRA PRADESH                ","MAIZE",725881,2461994
+"567",2007,"ANDHRA PRADESH                ","MAIZE",786000,4131000
+"568",2008,"ANDHRA PRADESH                ","MAIZE",851960,4151802
+"569",2009,"ANDHRA PRADESH                ","MAIZE",782632,2761198
+"570",1998,"ARUNACHAL PRADESH             ","MAIZE",36244,47022
+"571",1999,"ARUNACHAL PRADESH             ","MAIZE",35637,48328
+"572",2000,"ARUNACHAL PRADESH             ","MAIZE",38429,52297
+"573",2001,"ARUNACHAL PRADESH             ","MAIZE",38577,52511
+"574",2002,"ARUNACHAL PRADESH             ","MAIZE",33698,45191
+"575",2003,"ARUNACHAL PRADESH             ","MAIZE",38605,54510
+"576",2004,"ARUNACHAL PRADESH             ","MAIZE",37800,54985
+"577",2005,"ARUNACHAL PRADESH             ","MAIZE",41853,57898
+"578",2006,"ARUNACHAL PRADESH             ","MAIZE",46281,63524
+"579",2007,"ARUNACHAL PRADESH             ","MAIZE",42736,57430
+"580",2008,"ARUNACHAL PRADESH             ","MAIZE",42897,58830
+"581",2009,"ARUNACHAL PRADESH             ","MAIZE",43630,60144
+"582",2010,"ARUNACHAL PRADESH             ","MAIZE",45061,64714
+"583",1998,"ASSAM                         ","MAIZE",19810,13965
+"584",1999,"ASSAM                         ","MAIZE",19708,14056
+"585",2000,"ASSAM                         ","MAIZE",20241,14616
+"586",2001,"ASSAM                         ","MAIZE",19600,13940
+"587",2002,"ASSAM                         ","MAIZE",19812,14194
+"588",2003,"ASSAM                         ","MAIZE",19569,14051
+"589",2005,"ASSAM                         ","MAIZE",18969,13745
+"590",2006,"ASSAM                         ","MAIZE",18657,13557
+"591",2007,"ASSAM                         ","MAIZE",18362,13317
+"592",2008,"ASSAM                         ","MAIZE",17382,12619
+"593",2009,"ASSAM                         ","MAIZE",19481,13981
+"594",2010,"ASSAM                         ","MAIZE",19772,14110
+"595",1998,"BIHAR                         ","MAIZE",711099,1302385
+"596",1999,"BIHAR                         ","MAIZE",738123,1561368
+"597",2000,"BIHAR                         ","MAIZE",620505,1487309
+"598",2001,"BIHAR                         ","MAIZE",582056,1407367
+"599",2002,"BIHAR                         ","MAIZE",603605,1381082
+"600",2003,"BIHAR                         ","MAIZE",616430,1473570
+"601",2004,"BIHAR                         ","MAIZE",617254,1529273
+"602",2005,"BIHAR                         ","MAIZE",664274,1519842
+"603",2006,"BIHAR                         ","MAIZE",641215,1755949
+"604",2007,"BIHAR                         ","MAIZE",659301,1802862
+"605",2008,"BIHAR                         ","MAIZE",640473,1715346
+"606",1998,"CHANDIGARH                    ","MAIZE",380,1330
+"607",1999,"CHANDIGARH                    ","MAIZE",325,810
+"608",2000,"CHANDIGARH                    ","MAIZE",200,500
+"609",2001,"CHANDIGARH                    ","MAIZE",200,450
+"610",2002,"CHANDIGARH                    ","MAIZE",200,450
+"611",2003,"CHANDIGARH                    ","MAIZE",100,200
+"612",2004,"CHANDIGARH                    ","MAIZE",60,120
+"613",2005,"CHANDIGARH                    ","MAIZE",20,40
+"614",2006,"CHANDIGARH                    ","MAIZE",20,40
+"615",2007,"CHANDIGARH                    ","MAIZE",20,40
+"616",2008,"CHANDIGARH                    ","MAIZE",60,125
+"617",2009,"CHANDIGARH                    ","MAIZE",30,65
+"618",2010,"CHANDIGARH                    ","MAIZE",25,55
+"619",2000,"CHHATTISGARH                  ","MAIZE",93364,125668
+"620",2001,"CHHATTISGARH                  ","MAIZE",93820,69708
+"621",2002,"CHHATTISGARH                  ","MAIZE",93955,122611
+"622",2003,"CHHATTISGARH                  ","MAIZE",98557,135048
+"623",2004,"CHHATTISGARH                  ","MAIZE",97851,139927
+"624",2005,"CHHATTISGARH                  ","MAIZE",101587,109598
+"625",2006,"CHHATTISGARH                  ","MAIZE",98033,123489
+"626",2007,"CHHATTISGARH                  ","MAIZE",98666,153780
+"627",2008,"CHHATTISGARH                  ","MAIZE",97552,137597
+"628",2009,"CHHATTISGARH                  ","MAIZE",100102,142919
+"629",2010,"CHHATTISGARH                  ","MAIZE",100905,182930
+"630",2000,"D & N HAVELI                  ","MAIZE",20,20
+"631",2001,"D & N HAVELI                  ","MAIZE",19,20
+"632",2002,"D & N HAVELI                  ","MAIZE",57,60
+"633",2003,"D & N HAVELI                  ","MAIZE",100,105
+"634",2004,"D & N HAVELI                  ","MAIZE",100,110
+"635",2005,"D & N HAVELI                  ","MAIZE",25,25
+"636",1998,"DELHI                         ","MAIZE",165,132
+"637",1999,"DELHI                         ","MAIZE",58,42
+"638",2000,"DELHI                         ","MAIZE",55,90
+"639",2001,"DELHI                         ","MAIZE",53,95
+"640",2002,"DELHI                         ","MAIZE",94,228
+"641",2003,"DELHI                         ","MAIZE",93,184
+"642",2004,"DELHI                         ","MAIZE",82,125
+"643",2005,"DELHI                         ","MAIZE",79,144
+"644",2006,"DELHI                         ","MAIZE",67,122
+"645",2007,"DELHI                         ","MAIZE",69,126
+"646",1998,"GUJARAT                       ","MAIZE",408300,696000
+"647",1999,"GUJARAT                       ","MAIZE",391000,504000
+"648",2000,"GUJARAT                       ","MAIZE",382900,288500
+"649",2001,"GUJARAT                       ","MAIZE",443500,884600
+"650",2002,"GUJARAT                       ","MAIZE",464500,792600
+"651",2003,"GUJARAT                       ","MAIZE",484400,831900
+"652",2004,"GUJARAT                       ","MAIZE",459500,412500
+"653",2005,"GUJARAT                       ","MAIZE",456900,722400
+"654",2006,"GUJARAT                       ","MAIZE",447700,201700
+"655",2007,"GUJARAT                       ","MAIZE",424000,583100
+"656",2008,"GUJARAT                       ","MAIZE",418900,602600
+"657",2009,"GUJARAT                       ","MAIZE",411700,396600
+"658",2010,"GUJARAT                       ","MAIZE",565500,978100
+"659",1998,"HARYANA                       ","MAIZE",18886,39000
+"660",1999,"HARYANA                       ","MAIZE",20078,48000
+"661",2000,"HARYANA                       ","MAIZE",15428,34000
+"662",2001,"HARYANA                       ","MAIZE",17944,46000
+"663",2002,"HARYANA                       ","MAIZE",15886,29000
+"664",2003,"HARYANA                       ","MAIZE",16093,39000
+"665",2004,"HARYANA                       ","MAIZE",14782,39000
+"666",2005,"HARYANA                       ","MAIZE",16465,36000
+"667",2006,"HARYANA                       ","MAIZE",12159,30000
+"668",2007,"HARYANA                       ","MAIZE",13328,37000
+"669",2008,"HARYANA                       ","MAIZE",11587,25200
+"670",2009,"HARYANA                       ","MAIZE",11873,26000
+"671",1998,"HIMACHAL PRADESH              ","MAIZE",300976,662272
+"672",1999,"HIMACHAL PRADESH              ","MAIZE",299906,681424
+"673",2000,"HIMACHAL PRADESH              ","MAIZE",298052,683642
+"674",2001,"HIMACHAL PRADESH              ","MAIZE",301282,668228
+"675",2002,"HIMACHAL PRADESH              ","MAIZE",299801,483333
+"676",2003,"HIMACHAL PRADESH              ","MAIZE",298467,729571
+"677",2004,"HIMACHAL PRADESH              ","MAIZE",297887,636294
+"678",2005,"HIMACHAL PRADESH              ","MAIZE",295351,543061
+"679",2006,"HIMACHAL PRADESH              ","MAIZE",299037,695376
+"680",2007,"HIMACHAL PRADESH              ","MAIZE",300150,682615
+"681",2008,"HIMACHAL PRADESH              ","MAIZE",297718,676644
+"682",1999,"JAMMU & KASHMIR               ","MAIZE",317324,471210
+"683",2000,"JAMMU & KASHMIR               ","MAIZE",330208,525800
+"684",2001,"JAMMU & KASHMIR               ","MAIZE",326476,538070
+"685",2002,"JAMMU & KASHMIR               ","MAIZE",329465,465090
+"686",2003,"JAMMU & KASHMIR               ","MAIZE",321189,532620
+"687",2004,"JAMMU & KASHMIR               ","MAIZE",322699,492270
+"688",2007,"JAMMU & KASHMIR               ","MAIZE",231864,376304
+"689",2002,"JHARKHAND                     ","MAIZE",62780.33,74309.85
+"690",2003,"JHARKHAND                     ","MAIZE",89591.91,136369.87
+"691",2004,"JHARKHAND                     ","MAIZE",92036.15,133580.57
+"692",2005,"JHARKHAND                     ","MAIZE",74754.36,77409.86
+"693",2006,"JHARKHAND                     ","MAIZE",75712.78,116029
+"694",2007,"JHARKHAND                     ","MAIZE",76327.31,93851
+"695",1998,"KARNATAKA                     ","MAIZE",512368,1671292
+"696",1999,"KARNATAKA                     ","MAIZE",606387,1603392
+"697",2000,"KARNATAKA                     ","MAIZE",668855,2135644
+"698",2001,"KARNATAKA                     ","MAIZE",580035,1451587
+"699",2002,"KARNATAKA                     ","MAIZE",649544,1342942
+"700",2003,"KARNATAKA                     ","MAIZE",618173,1209900
+"701",2004,"KARNATAKA                     ","MAIZE",850369,2509349
+"702",2005,"KARNATAKA                     ","MAIZE",935854,2806523
+"703",2006,"KARNATAKA                     ","MAIZE",960532,2641529
+"704",2007,"KARNATAKA                     ","MAIZE",1077419,3203600
+"705",2008,"KARNATAKA                     ","MAIZE",1031441,2828517
+"706",2009,"KARNATAKA                     ","MAIZE",1199345,2798569
+"707",1999,"MADHYA PRADESH                ","MAIZE",895685,1422348
+"708",2000,"MADHYA PRADESH                ","MAIZE",829299,1209947
+"709",2001,"MADHYA PRADESH                ","MAIZE",843065,1672641
+"710",2002,"MADHYA PRADESH                ","MAIZE",848970,1486546
+"711",2003,"MADHYA PRADESH                ","MAIZE",898618,1858342
+"712",2004,"MADHYA PRADESH                ","MAIZE",873546,1222964
+"713",2005,"MADHYA PRADESH                ","MAIZE",852591,1240520
+"714",2007,"MADHYA PRADESH                ","MAIZE",841830,1111216
+"715",2008,"MADHYA PRADESH                ","MAIZE",762720,1056411
+"716",1999,"MAHARASHTRA                   ","MAIZE",263869,414473
+"717",2000,"MAHARASHTRA                   ","MAIZE",328700,303600
+"718",2001,"MAHARASHTRA                   ","MAIZE",326100,586910
+"719",2002,"MAHARASHTRA                   ","MAIZE",371200,743300
+"720",2003,"MAHARASHTRA                   ","MAIZE",369700,752100
+"721",2004,"MAHARASHTRA                   ","MAIZE",431600,757800
+"722",2006,"MAHARASHTRA                   ","MAIZE",580200,1151900
+"723",2007,"MAHARASHTRA                   ","MAIZE",6715,17898
+"724",2008,"MAHARASHTRA                   ","MAIZE",550959,1325067
+"725",2009,"MAHARASHTRA                   ","MAIZE",774400,1797800
+"726",2010,"MAHARASHTRA                   ","MAIZE",868200,2570700
+"727",1998,"MANIPUR                       ","MAIZE",2960,10090
+"728",1999,"MANIPUR                       ","MAIZE",4340,10710
+"729",2000,"MANIPUR                       ","MAIZE",4670,10860
+"730",2001,"MANIPUR                       ","MAIZE",5060,10090
+"731",2002,"MANIPUR                       ","MAIZE",3540,8270
+"732",2003,"MANIPUR                       ","MAIZE",2340,7530
+"733",2004,"MANIPUR                       ","MAIZE",3220,8900
+"734",2005,"MANIPUR                       ","MAIZE",2850,7940
+"735",2006,"MANIPUR                       ","MAIZE",3340,8270
+"736",2007,"MANIPUR                       ","MAIZE",2960,8450
+"737",1998,"MEGHALYA                      ","MAIZE",17219,25272
+"738",1999,"MEGHALYA                      ","MAIZE",16637,24051
+"739",2000,"MEGHALYA                      ","MAIZE",16906,24250
+"740",2001,"MEGHALYA                      ","MAIZE",16866,25247
+"741",2002,"MEGHALYA                      ","MAIZE",16922,25879
+"742",2003,"MEGHALYA                      ","MAIZE",16900,25929
+"743",2004,"MEGHALYA                      ","MAIZE",16871,24000
+"744",2005,"MEGHALYA                      ","MAIZE",16898,24424
+"745",2007,"MEGHALYA                      ","MAIZE",17048,25138
+"746",2008,"MEGHALYA                      ","MAIZE",17117,25716
+"747",2009,"MEGHALYA                      ","MAIZE",17209,26167
+"748",1998,"MIZORAM                       ","MAIZE",8681,16589
+"749",1999,"MIZORAM                       ","MAIZE",5277,9702
+"750",2000,"MIZORAM                       ","MAIZE",6643,16436
+"751",2001,"MIZORAM                       ","MAIZE",7377,16645
+"752",2002,"MIZORAM                       ","MAIZE",7489,14879
+"753",2003,"MIZORAM                       ","MAIZE",10481,20282
+"754",2004,"MIZORAM                       ","MAIZE",10504,19787
+"755",2005,"MIZORAM                       ","MAIZE",11742,22703
+"756",2006,"MIZORAM                       ","MAIZE",10775,20969
+"757",2007,"MIZORAM                       ","MAIZE",7328,729
+"758",2008,"MIZORAM                       ","MAIZE",9558,9318
+"759",2009,"MIZORAM                       ","MAIZE",8551,11510
+"760",1999,"NAGALAND                      ","MAIZE",32370,42830
+"761",2000,"NAGALAND                      ","MAIZE",35000,52500
+"762",2001,"NAGALAND                      ","MAIZE",45000,90000
+"763",2002,"NAGALAND                      ","MAIZE",40000,80000
+"764",2003,"NAGALAND                      ","MAIZE",45140,78260
+"765",2004,"NAGALAND                      ","MAIZE",46400,83500
+"766",2005,"NAGALAND                      ","MAIZE",51600,92880
+"767",2006,"NAGALAND                      ","MAIZE",64700,108340
+"768",2007,"NAGALAND                      ","MAIZE",63640,115330
+"769",2008,"NAGALAND                      ","MAIZE",50650,91060
+"770",2010,"NAGALAND                      ","MAIZE",54780,107300
+"771",1998,"ORISSA                        ","MAIZE",50921,66353
+"772",1999,"ORISSA                        ","MAIZE",54443,80823.9
+"773",2000,"ORISSA                        ","MAIZE",54371,69765.2
+"774",2001,"ORISSA                        ","MAIZE",51428,46654.5
+"775",2002,"ORISSA                        ","MAIZE",43100,42399.4
+"776",2003,"ORISSA                        ","MAIZE",69309,96924.7
+"777",2004,"ORISSA                        ","MAIZE",62338,101282.9
+"778",2005,"ORISSA                        ","MAIZE",127174,203799.4
+"779",2006,"ORISSA                        ","MAIZE",61270,102835.5
+"780",2007,"ORISSA                        ","MAIZE",74069,147166.6
+"781",2008,"ORISSA                        ","MAIZE",67017,134686.8
+"782",2009,"ORISSA                        ","MAIZE",81158,175010
+"783",1998,"PUNJAB                        ","MAIZE",154000,352000
+"784",1999,"PUNJAB                        ","MAIZE",162000,417000
+"785",2000,"PUNJAB                        ","MAIZE",165000,461000
+"786",2001,"PUNJAB                        ","MAIZE",165000,449000
+"787",2002,"PUNJAB                        ","MAIZE",152000,310000
+"788",2003,"PUNJAB                        ","MAIZE",154000,459000
+"789",2004,"PUNJAB                        ","MAIZE",154000,422000
+"790",2005,"PUNJAB                        ","MAIZE",148000,403000
+"791",2006,"PUNJAB                        ","MAIZE",146000,462000
+"792",2007,"PUNJAB                        ","MAIZE",145000,493000
+"793",2008,"PUNJAB                        ","MAIZE",145000,492000
+"794",2009,"PUNJAB                        ","MAIZE",133000,453000
+"795",2010,"PUNJAB                        ","MAIZE",126000,463000
+"796",1999,"RAJASTHAN                     ","MAIZE",933578,968657
+"797",2000,"RAJASTHAN                     ","MAIZE",969898,1015268
+"798",2001,"RAJASTHAN                     ","MAIZE",1017433,1478871
+"799",2002,"RAJASTHAN                     ","MAIZE",983553,870264
+"800",2003,"RAJASTHAN                     ","MAIZE",1110655,2069387
+"801",2004,"RAJASTHAN                     ","MAIZE",1042511,1265243
+"802",2005,"RAJASTHAN                     ","MAIZE",1004963,1103841
+"803",2006,"RAJASTHAN                     ","MAIZE",1032079,1117941
+"804",2007,"RAJASTHAN                     ","MAIZE",1055538,1961513
+"805",2008,"RAJASTHAN                     ","MAIZE",998303,1707266
+"806",2009,"RAJASTHAN                     ","MAIZE",1044081,1047573
+"807",1998,"SIKKIM                        ","MAIZE",39383,50800
+"808",1999,"SIKKIM                        ","MAIZE",39093,52834
+"809",2000,"SIKKIM                        ","MAIZE",39903,59611
+"810",2001,"SIKKIM                        ","MAIZE",40110,57014
+"811",2002,"SIKKIM                        ","MAIZE",36720,53210
+"812",2003,"SIKKIM                        ","MAIZE",36700,57050
+"813",2004,"SIKKIM                        ","MAIZE",36700,58190
+"814",2005,"SIKKIM                        ","MAIZE",36700,61100
+"815",2006,"SIKKIM                        ","MAIZE",40850,64890
+"816",2007,"SIKKIM                        ","MAIZE",39770,59120
+"817",2008,"SIKKIM                        ","MAIZE",39200,65740
+"818",2009,"SIKKIM                        ","MAIZE",39500,64690
+"819",2010,"SIKKIM                        ","MAIZE",40170,66193
+"820",1998,"TAMIL NADU                    ","MAIZE",70179,111983
+"821",1999,"TAMIL NADU                    ","MAIZE",115803,183765
+"822",2000,"TAMIL NADU                    ","MAIZE",119802,193854
+"823",2002,"TAMIL NADU                    ","MAIZE",121057,191646
+"824",2003,"TAMIL NADU                    ","MAIZE",160159,250992
+"825",2004,"TAMIL NADU                    ","MAIZE",189893,294717
+"826",2006,"TAMIL NADU                    ","MAIZE",197782,759112
+"827",2007,"TAMIL NADU                    ","MAIZE",223428,810057
+"828",2008,"TAMIL NADU                    ","MAIZE",248339,1257882
+"829",2009,"TAMIL NADU                    ","MAIZE",244159,1138126
+"830",1999,"TRIPURA                       ","MAIZE",1250,1000
+"831",2000,"TRIPURA                       ","MAIZE",1580,1580
+"832",2001,"TRIPURA                       ","MAIZE",2080,2080
+"833",2002,"TRIPURA                       ","MAIZE",2305,2205
+"834",2003,"TRIPURA                       ","MAIZE",2240,2150
+"835",2006,"TRIPURA                       ","MAIZE",2450,2420
+"836",1999,"UTTAR PRADESH                 ","MAIZE",967181,1397529
+"837",2000,"UTTAR PRADESH                 ","MAIZE",920841,1494054
+"838",2001,"UTTAR PRADESH                 ","MAIZE",931137,1516580
+"839",2002,"UTTAR PRADESH                 ","MAIZE",795134,880543
+"840",2003,"UTTAR PRADESH                 ","MAIZE",842198,1151541
+"841",2004,"UTTAR PRADESH                 ","MAIZE",845907,1314145
+"842",2005,"UTTAR PRADESH                 ","MAIZE",810306,1040607
+"843",2006,"UTTAR PRADESH                 ","MAIZE",871633,1163852
+"844",2007,"UTTAR PRADESH                 ","MAIZE",837645,1208944
+"845",2008,"UTTAR PRADESH                 ","MAIZE",787032,1205167
+"846",2009,"UTTAR PRADESH                 ","MAIZE",708681,1038841
+"847",2010,"UTTAR PRADESH                 ","MAIZE",751070,1112962
+"848",2000,"UTTARANCHAL                   ","MAIZE",33530,48401
+"849",2001,"UTTARANCHAL                   ","MAIZE",33055,40865
+"850",2002,"UTTARANCHAL                   ","MAIZE",28588,32254
+"851",2003,"UTTARANCHAL                   ","MAIZE",31346,47670
+"852",2004,"UTTARANCHAL                   ","MAIZE",29575,45114
+"853",2005,"UTTARANCHAL                   ","MAIZE",31461,39917
+"854",2006,"UTTARANCHAL                   ","MAIZE",27244,35981
+"855",2007,"UTTARANCHAL                   ","MAIZE",28082,43792
+"856",2008,"UTTARANCHAL                   ","MAIZE",26872,36437
+"857",2009,"UTTARANCHAL                   ","MAIZE",26166,36191
+"858",1999,"WEST BENGAL                   ","MAIZE",35129,69682
+"859",2000,"WEST BENGAL                   ","MAIZE",35267,88264
+"860",2001,"WEST BENGAL                   ","MAIZE",34163,87965
+"861",2002,"WEST BENGAL                   ","MAIZE",27884,55568
+"862",2003,"WEST BENGAL                   ","MAIZE",56333,127701
+"863",2004,"WEST BENGAL                   ","MAIZE",64629,190546
+"864",2005,"WEST BENGAL                   ","MAIZE",71753,207252
+"865",2006,"WEST BENGAL                   ","MAIZE",85446,253505
+"866",2007,"WEST BENGAL                   ","MAIZE",77173,244373
+"867",2008,"WEST BENGAL                   ","MAIZE",90774,343434
+"868",2009,"WEST BENGAL                   ","MAIZE",97716,385219
+"869",1998,"ANDHRA PRADESH                ","RAGI",103000,122000
+"870",1999,"ANDHRA PRADESH                ","RAGI",96752,110585
+"871",2000,"ANDHRA PRADESH                ","RAGI",99252,120079
+"872",2001,"ANDHRA PRADESH                ","RAGI",81727,102804
+"873",2002,"ANDHRA PRADESH                ","RAGI",71000,76100
+"874",2003,"ANDHRA PRADESH                ","RAGI",78000,1e+05
+"875",2004,"ANDHRA PRADESH                ","RAGI",68987,87418
+"876",2005,"ANDHRA PRADESH                ","RAGI",65607,79345
+"877",2006,"ANDHRA PRADESH                ","RAGI",58922,64494
+"878",2007,"ANDHRA PRADESH                ","RAGI",55000,67000
+"879",2008,"ANDHRA PRADESH                ","RAGI",50021,51878
+"880",2009,"ANDHRA PRADESH                ","RAGI",45228,53702
+"881",1998,"BIHAR                         ","RAGI",72015,60565
+"882",1999,"BIHAR                         ","RAGI",65724,64673
+"883",2000,"BIHAR                         ","RAGI",22452,24827
+"884",2001,"BIHAR                         ","RAGI",19726,17318
+"885",2002,"BIHAR                         ","RAGI",20695,14237
+"886",2003,"BIHAR                         ","RAGI",15187,10236
+"887",2004,"BIHAR                         ","RAGI",15570,10512
+"888",2005,"BIHAR                         ","RAGI",14237,12825
+"889",2006,"BIHAR                         ","RAGI",14328,12452
+"890",2007,"BIHAR                         ","RAGI",13222,7996
+"891",2008,"BIHAR                         ","RAGI",11435,9296
+"892",2000,"CHHATTISGARH                  ","RAGI",11183,2630
+"893",2001,"CHHATTISGARH                  ","RAGI",10860,3210
+"894",2002,"CHHATTISGARH                  ","RAGI",10523,2184
+"895",2003,"CHHATTISGARH                  ","RAGI",10647,3109
+"896",2004,"CHHATTISGARH                  ","RAGI",10108,2665
+"897",2006,"CHHATTISGARH                  ","RAGI",8817,2576
+"898",2007,"CHHATTISGARH                  ","RAGI",8914,2483
+"899",2008,"CHHATTISGARH                  ","RAGI",8677,2415
+"900",2009,"CHHATTISGARH                  ","RAGI",7906,2107
+"901",1999,"D & N HAVELI                  ","RAGI",1593,2232
+"902",2000,"D & N HAVELI                  ","RAGI",1405,1909
+"903",2001,"D & N HAVELI                  ","RAGI",1394,1538
+"904",2002,"D & N HAVELI                  ","RAGI",1375,1873
+"905",2003,"D & N HAVELI                  ","RAGI",1684,1873
+"906",2004,"D & N HAVELI                  ","RAGI",1634,2330
+"907",2005,"D & N HAVELI                  ","RAGI",1658,3628
+"908",1998,"GOA                           ","RAGI",2500,2476
+"909",2004,"GOA                           ","RAGI",394,377
+"910",2005,"GOA                           ","RAGI",441,463
+"911",2006,"GOA                           ","RAGI",280,254
+"912",2007,"GOA                           ","RAGI",162,170
+"913",1998,"GUJARAT                       ","RAGI",19700,20400
+"914",1999,"GUJARAT                       ","RAGI",19400,21600
+"915",2000,"GUJARAT                       ","RAGI",19600,14000
+"916",2001,"GUJARAT                       ","RAGI",21000,21500
+"917",2002,"GUJARAT                       ","RAGI",24600,15900
+"918",2003,"GUJARAT                       ","RAGI",20800,24000
+"919",2004,"GUJARAT                       ","RAGI",24300,25800
+"920",2005,"GUJARAT                       ","RAGI",21700,23200
+"921",2006,"GUJARAT                       ","RAGI",20400,20500
+"922",2007,"GUJARAT                       ","RAGI",21700,18200
+"923",2008,"GUJARAT                       ","RAGI",19400,20000
+"924",2009,"GUJARAT                       ","RAGI",14700,11000
+"925",2010,"GUJARAT                       ","RAGI",20000,13900
+"926",2005,"HIMACHAL PRADESH              ","RAGI",3323,3409
+"927",2006,"HIMACHAL PRADESH              ","RAGI",2950,3158
+"928",2007,"HIMACHAL PRADESH              ","RAGI",1845,2489
+"929",2008,"HIMACHAL PRADESH              ","RAGI",2273,2442
+"930",2010,"HIMACHAL PRADESH              ","RAGI",2321,2110
+"931",2002,"JHARKHAND                     ","RAGI",26659.73,32959.9
+"932",2003,"JHARKHAND                     ","RAGI",73301.3,50316.73
+"933",2004,"JHARKHAND                     ","RAGI",29029.16,23846.57
+"934",2005,"JHARKHAND                     ","RAGI",27846.26,23278.28
+"935",2006,"JHARKHAND                     ","RAGI",32829.89,25216
+"936",2007,"JHARKHAND                     ","RAGI",30550.12,27952
+"937",1998,"KARNATAKA                     ","RAGI",1030679,1734076
+"938",1999,"KARNATAKA                     ","RAGI",916329,1402162
+"939",2000,"KARNATAKA                     ","RAGI",1022701,1835332
+"940",2001,"KARNATAKA                     ","RAGI",953430,1539308
+"941",2002,"KARNATAKA                     ","RAGI",767148,714489
+"942",2003,"KARNATAKA                     ","RAGI",998266,1125093
+"943",2004,"KARNATAKA                     ","RAGI",892841,1613873
+"944",2005,"KARNATAKA                     ","RAGI",938630,1656306
+"945",2006,"KARNATAKA                     ","RAGI",618771,664985
+"946",2007,"KARNATAKA                     ","RAGI",720724,1150223
+"947",2008,"KARNATAKA                     ","RAGI",722636,1022520
+"948",2009,"KARNATAKA                     ","RAGI",641622,1007000
+"949",1998,"KERALA                        ","RAGI",1157,936
+"950",1999,"KERALA                        ","RAGI",870,704
+"951",2000,"KERALA                        ","RAGI",1955,1582
+"952",2001,"KERALA                        ","RAGI",1947,1575
+"953",2002,"KERALA                        ","RAGI",1320,1068
+"954",2003,"KERALA                        ","RAGI",1504,1217
+"955",2004,"KERALA                        ","RAGI",1383,1119
+"956",2005,"KERALA                        ","RAGI",414,335
+"957",2006,"KERALA                        ","RAGI",516,417
+"958",2007,"KERALA                        ","RAGI",266,216
+"959",2008,"KERALA                        ","RAGI",608,492
+"960",2009,"KERALA                        ","RAGI",292,236
+"961",1999,"MADHYA PRADESH                ","RAGI",11814,3418.2
+"962",2000,"MADHYA PRADESH                ","RAGI",1783,662.2
+"963",2001,"MADHYA PRADESH                ","RAGI",508,135
+"964",2002,"MADHYA PRADESH                ","RAGI",608,150.3
+"965",2003,"MADHYA PRADESH                ","RAGI",514,136.1
+"966",2004,"MADHYA PRADESH                ","RAGI",403,112
+"967",2005,"MADHYA PRADESH                ","RAGI",419,113
+"968",2007,"MADHYA PRADESH                ","RAGI",454,140
+"969",2008,"MADHYA PRADESH                ","RAGI",440,137
+"970",1999,"MAHARASHTRA                   ","RAGI",155400,167200
+"971",2000,"MAHARASHTRA                   ","RAGI",154900,128600
+"972",2001,"MAHARASHTRA                   ","RAGI",150700,181600
+"973",2002,"MAHARASHTRA                   ","RAGI",145900,124200
+"974",2003,"MAHARASHTRA                   ","RAGI",146900,170000
+"975",2004,"MAHARASHTRA                   ","RAGI",144600,147200
+"976",2005,"MAHARASHTRA                   ","RAGI",135800,132300
+"977",2006,"MAHARASHTRA                   ","RAGI",136000,123000
+"978",2007,"MAHARASHTRA                   ","RAGI",1283,1235
+"979",2008,"MAHARASHTRA                   ","RAGI",125500,125000
+"980",2009,"MAHARASHTRA                   ","RAGI",120200,108700
+"981",2010,"MAHARASHTRA                   ","RAGI",120000,117500
+"982",2010,"NAGALAND                      ","RAGI",250,230
+"983",1998,"ORISSA                        ","RAGI",81004,51882
+"984",1999,"ORISSA                        ","RAGI",81754,52900.3
+"985",2000,"ORISSA                        ","RAGI",83981,46551.2
+"986",2001,"ORISSA                        ","RAGI",76262,45075.8
+"987",2002,"ORISSA                        ","RAGI",77095,35501.8
+"988",2003,"ORISSA                        ","RAGI",70490,44574.1
+"989",2004,"ORISSA                        ","RAGI",63806,40843.7
+"990",2005,"ORISSA                        ","RAGI",131134,80628.8
+"991",2006,"ORISSA                        ","RAGI",65001,43080.2
+"992",2007,"ORISSA                        ","RAGI",67527,46775.1
+"993",2008,"ORISSA                        ","RAGI",65713,41034.2
+"994",2009,"ORISSA                        ","RAGI",59030,37651.9
+"995",1999,"PONDICHERRY                   ","RAGI",124,452
+"996",2000,"PONDICHERRY                   ","RAGI",125,276
+"997",2001,"PONDICHERRY                   ","RAGI",138,325
+"998",2002,"PONDICHERRY                   ","RAGI",114,251
+"999",2003,"PONDICHERRY                   ","RAGI",121,266
+"1000",2004,"PONDICHERRY                   ","RAGI",104,166
+"1001",2005,"PONDICHERRY                   ","RAGI",56,101
+"1002",1998,"TAMIL NADU                    ","RAGI",161000,334162
+"1003",1999,"TAMIL NADU                    ","RAGI",163024,282833
+"1004",2000,"TAMIL NADU                    ","RAGI",126955,259390.2
+"1005",2001,"TAMIL NADU                    ","RAGI",124958,235311
+"1006",2002,"TAMIL NADU                    ","RAGI",104286,140169
+"1007",2003,"TAMIL NADU                    ","RAGI",118439,176381
+"1008",2004,"TAMIL NADU                    ","RAGI",108845,154085
+"1009",2005,"TAMIL NADU                    ","RAGI",99549,132172
+"1010",2006,"TAMIL NADU                    ","RAGI",95478,148148
+"1011",2007,"TAMIL NADU                    ","RAGI",93701,175944
+"1012",2008,"TAMIL NADU                    ","RAGI",90063,169944
+"1013",2009,"TAMIL NADU                    ","RAGI",82335,160939
+"1014",1999,"UTTAR PRADESH                 ","RAGI",137622,190689
+"1015",2002,"UTTAR PRADESH                 ","RAGI",590,864
+"1016",2003,"UTTAR PRADESH                 ","RAGI",221,323
+"1017",2000,"UTTARANCHAL                   ","RAGI",127733,162286
+"1018",2001,"UTTARANCHAL                   ","RAGI",131779,161963
+"1019",2002,"UTTARANCHAL                   ","RAGI",127391,129586
+"1020",2003,"UTTARANCHAL                   ","RAGI",126421,165549
+"1021",2004,"UTTARANCHAL                   ","RAGI",131003,164096
+"1022",2005,"UTTARANCHAL                   ","RAGI",124379,156720
+"1023",2006,"UTTARANCHAL                   ","RAGI",125640,171181
+"1024",2007,"UTTARANCHAL                   ","RAGI",122498,172157
+"1025",2008,"UTTARANCHAL                   ","RAGI",120707,173627
+"1026",2009,"UTTARANCHAL                   ","RAGI",116162,142978
+"1027",1999,"WEST BENGAL                   ","RAGI",12489,15051
+"1028",2000,"WEST BENGAL                   ","RAGI",12651,15242
+"1029",2001,"WEST BENGAL                   ","RAGI",12730,14558
+"1030",2002,"WEST BENGAL                   ","RAGI",13517,15639
+"1031",2003,"WEST BENGAL                   ","RAGI",13417,15505
+"1032",2004,"WEST BENGAL                   ","RAGI",12358,15118
+"1033",2005,"WEST BENGAL                   ","RAGI",12621,15315
+"1034",2006,"WEST BENGAL                   ","RAGI",13135,14974
+"1035",2007,"WEST BENGAL                   ","RAGI",13062,14955
+"1036",2008,"WEST BENGAL                   ","RAGI",12704,14676
+"1037",2009,"WEST BENGAL                   ","RAGI",11774,13897
+"1038",2000,"A & N ISLANDS                 ","RICE",10881,32184
+"1039",2001,"A & N ISLANDS                 ","RICE",9801,27333
+"1040",2002,"A & N ISLANDS                 ","RICE",10885,32111.66
+"1041",2003,"A & N ISLANDS                 ","RICE",10561.37,30850.868
+"1042",2004,"A & N ISLANDS                 ","RICE",10734.92,29192.23
+"1043",2005,"A & N ISLANDS                 ","RICE",8685.47,25883.04
+"1044",2006,"A & N ISLANDS                 ","RICE",7776.17,21535.26
+"1045",2007,"A & N ISLANDS                 ","RICE",7333.75,21864.4
+"1046",2008,"A & N ISLANDS                 ","RICE",7900,14730
+"1047",2009,"A & N ISLANDS                 ","RICE",8140,16600
+"1048",1998,"ANDHRA PRADESH                ","RICE",4316600,11878000
+"1049",1999,"ANDHRA PRADESH                ","RICE",4014248,10637915
+"1050",2000,"ANDHRA PRADESH                ","RICE",4242726,12458014
+"1051",2001,"ANDHRA PRADESH                ","RICE",3824747,11389791
+"1052",2002,"ANDHRA PRADESH                ","RICE",2822000,7327000
+"1053",2003,"ANDHRA PRADESH                ","RICE",2975000,8953000
+"1054",2004,"ANDHRA PRADESH                ","RICE",3086202,9601045
+"1055",2005,"ANDHRA PRADESH                ","RICE",3981751,11703624
+"1056",2006,"ANDHRA PRADESH                ","RICE",3977890,11872130
+"1057",2007,"ANDHRA PRADESH                ","RICE",3984000,13324000
+"1058",2008,"ANDHRA PRADESH                ","RICE",4387216,14241133
+"1059",2009,"ANDHRA PRADESH                ","RICE",3440736,10838267
+"1060",1998,"ARUNACHAL PRADESH             ","RICE",115481,114116
+"1061",1999,"ARUNACHAL PRADESH             ","RICE",122740,134807
+"1062",2000,"ARUNACHAL PRADESH             ","RICE",118601,132690
+"1063",2001,"ARUNACHAL PRADESH             ","RICE",119455,134621
+"1064",2002,"ARUNACHAL PRADESH             ","RICE",108704,131560
+"1065",2003,"ARUNACHAL PRADESH             ","RICE",119205,154589
+"1066",2004,"ARUNACHAL PRADESH             ","RICE",121642,134950
+"1067",2005,"ARUNACHAL PRADESH             ","RICE",122267,146191
+"1068",2006,"ARUNACHAL PRADESH             ","RICE",123038,144635
+"1069",2007,"ARUNACHAL PRADESH             ","RICE",124029,158146
+"1070",2008,"ARUNACHAL PRADESH             ","RICE",126799,164538
+"1071",2009,"ARUNACHAL PRADESH             ","RICE",121468,143894.6
+"1072",2010,"ARUNACHAL PRADESH             ","RICE",121570,155993
+"1073",1998,"ASSAM                         ","RICE",2454122,3254833
+"1074",1999,"ASSAM                         ","RICE",2645874,3860648
+"1075",2000,"ASSAM                         ","RICE",2646177,3998443
+"1076",2001,"ASSAM                         ","RICE",2533424,3854438
+"1077",2002,"ASSAM                         ","RICE",2540680,3737802
+"1078",2003,"ASSAM                         ","RICE",2529826,3880934
+"1079",2004,"ASSAM                         ","RICE",2383731,3470760
+"1080",2005,"ASSAM                         ","RICE",2420327,3552438
+"1081",2006,"ASSAM                         ","RICE",2196559,2916014
+"1082",2007,"ASSAM                         ","RICE",2323996,3318568
+"1083",2008,"ASSAM                         ","RICE",2484126,4008435
+"1084",2009,"ASSAM                         ","RICE",2497596,4408424
+"1085",2010,"ASSAM                         ","RICE",2537455,5032529
+"1086",1998,"BIHAR                         ","RICE",4367279,5993441
+"1087",1999,"BIHAR                         ","RICE",869104,1109089
+"1088",2000,"BIHAR                         ","RICE",3656844,5444370
+"1089",2001,"BIHAR                         ","RICE",3564539,5301221
+"1090",2002,"BIHAR                         ","RICE",3584701,5085567
+"1091",2003,"BIHAR                         ","RICE",3768224,5718627
+"1092",2004,"BIHAR                         ","RICE",3140116,2472156
+"1093",2005,"BIHAR                         ","RICE",3251236,3709285
+"1094",2006,"BIHAR                         ","RICE",3364010,5027947
+"1095",2007,"BIHAR                         ","RICE",3477364,4458764
+"1096",2008,"BIHAR                         ","RICE",3495273,5589982
+"1097",1998,"CHANDIGARH                    ","RICE",120,360
+"1098",1999,"CHANDIGARH                    ","RICE",80,240
+"1099",2000,"CHANDIGARH                    ","RICE",70,350
+"1100",2001,"CHANDIGARH                    ","RICE",50,250
+"1101",2002,"CHANDIGARH                    ","RICE",140,700
+"1102",2003,"CHANDIGARH                    ","RICE",100,500
+"1103",2004,"CHANDIGARH                    ","RICE",80,400
+"1104",2005,"CHANDIGARH                    ","RICE",50,250
+"1105",2006,"CHANDIGARH                    ","RICE",50,250
+"1106",2007,"CHANDIGARH                    ","RICE",50,250
+"1107",2008,"CHANDIGARH                    ","RICE",20,100
+"1108",2009,"CHANDIGARH                    ","RICE",20,100
+"1109",2010,"CHANDIGARH                    ","RICE",20,103
+"1110",2000,"CHHATTISGARH                  ","RICE",3769746,2369295
+"1111",2001,"CHHATTISGARH                  ","RICE",3810112,5073721
+"1112",2002,"CHHATTISGARH                  ","RICE",3777661,2634853
+"1113",2003,"CHHATTISGARH                  ","RICE",3828992,5567644
+"1114",2004,"CHHATTISGARH                  ","RICE",3843825,4586818
+"1115",2005,"CHHATTISGARH                  ","RICE",3854352,5267537
+"1116",2006,"CHHATTISGARH                  ","RICE",3822436,5441525
+"1117",2007,"CHHATTISGARH                  ","RICE",3817675,5517844
+"1118",2008,"CHHATTISGARH                  ","RICE",3843506,4626715
+"1119",2009,"CHHATTISGARH                  ","RICE",3755469,4254580
+"1120",2010,"CHHATTISGARH                  ","RICE",3848240,6459114
+"1121",1999,"D & N HAVELI                  ","RICE",14405,28692
+"1122",2000,"D & N HAVELI                  ","RICE",15218,28663
+"1123",2001,"D & N HAVELI                  ","RICE",13879,31035
+"1124",2002,"D & N HAVELI                  ","RICE",13683,38321
+"1125",2003,"D & N HAVELI                  ","RICE",13897,27933
+"1126",2004,"D & N HAVELI                  ","RICE",13987,29171
+"1127",2005,"D & N HAVELI                  ","RICE",13560,33643
+"1128",1998,"DELHI                         ","RICE",7303,10799
+"1129",1999,"DELHI                         ","RICE",8105,15279
+"1130",2000,"DELHI                         ","RICE",6053,11420
+"1131",2001,"DELHI                         ","RICE",6405,12063
+"1132",2002,"DELHI                         ","RICE",6096,12907
+"1133",2003,"DELHI                         ","RICE",6549,17909
+"1134",2004,"DELHI                         ","RICE",8431,28216
+"1135",2005,"DELHI                         ","RICE",7506,21092
+"1136",2006,"DELHI                         ","RICE",7381,20815
+"1137",2007,"DELHI                         ","RICE",7419,20946
+"1138",1998,"GOA                           ","RICE",56439,151174
+"1139",1999,"GOA                           ","RICE",56713,139923
+"1140",2000,"GOA                           ","RICE",57207,142123
+"1141",2001,"GOA                           ","RICE",49383,126523
+"1142",2002,"GOA                           ","RICE",50169,134767
+"1143",2003,"GOA                           ","RICE",52801,170661
+"1144",2004,"GOA                           ","RICE",52442,217761
+"1145",2005,"GOA                           ","RICE",52177,220853
+"1146",2006,"GOA                           ","RICE",51985,193418
+"1147",2007,"GOA                           ","RICE",52191,182519
+"1148",1998,"GUJARAT                       ","RICE",622100,1015900
+"1149",1999,"GUJARAT                       ","RICE",664400,984900
+"1150",2000,"GUJARAT                       ","RICE",583500,472600
+"1151",2001,"GUJARAT                       ","RICE",664000,1028700
+"1152",2002,"GUJARAT                       ","RICE",469000,541700
+"1153",2003,"GUJARAT                       ","RICE",675300,1277000
+"1154",2004,"GUJARAT                       ","RICE",679400,1196500
+"1155",2005,"GUJARAT                       ","RICE",672900,1283600
+"1156",2006,"GUJARAT                       ","RICE",689300,1141200
+"1157",2007,"GUJARAT                       ","RICE",758600,1474200
+"1158",2008,"GUJARAT                       ","RICE",747300,1302900
+"1159",2009,"GUJARAT                       ","RICE",679500,1293000
+"1160",2010,"GUJARAT                       ","RICE",808100,1665800
+"1161",1998,"HARYANA                       ","RICE",1086694,2432000
+"1162",1999,"HARYANA                       ","RICE",1083052,2563000
+"1163",2000,"HARYANA                       ","RICE",1054281,2695000
+"1164",2001,"HARYANA                       ","RICE",1027505,2726000
+"1165",2002,"HARYANA                       ","RICE",905651,2468000
+"1166",2003,"HARYANA                       ","RICE",1015191,2790000
+"1167",2004,"HARYANA                       ","RICE",1024236,3010000
+"1168",2005,"HARYANA                       ","RICE",1046588,3194000
+"1169",2006,"HARYANA                       ","RICE",1042035,3371000
+"1170",2007,"HARYANA                       ","RICE",1072545,3606000
+"1171",2008,"HARYANA                       ","RICE",1211149,3299000
+"1172",2009,"HARYANA                       ","RICE",1206402,3628000
+"1173",1998,"HIMACHAL PRADESH              ","RICE",82125,116997
+"1174",1999,"HIMACHAL PRADESH              ","RICE",80222,120365
+"1175",2000,"HIMACHAL PRADESH              ","RICE",81519,124893
+"1176",2001,"HIMACHAL PRADESH              ","RICE",80579,137418
+"1177",2002,"HIMACHAL PRADESH              ","RICE",83273,85653
+"1178",2003,"HIMACHAL PRADESH              ","RICE",81335,120624
+"1179",2004,"HIMACHAL PRADESH              ","RICE",79519,109129
+"1180",2005,"HIMACHAL PRADESH              ","RICE",79366,112139
+"1181",2006,"HIMACHAL PRADESH              ","RICE",79206,123485
+"1182",2007,"HIMACHAL PRADESH              ","RICE",78571,121453
+"1183",2008,"HIMACHAL PRADESH              ","RICE",77709,118277
+"1184",1999,"JAMMU & KASHMIR               ","RICE",250625,391528.6
+"1185",2000,"JAMMU & KASHMIR               ","RICE",244051,415341.8
+"1186",2001,"JAMMU & KASHMIR               ","RICE",249830,422298
+"1187",2002,"JAMMU & KASHMIR               ","RICE",236199,421457
+"1188",2003,"JAMMU & KASHMIR               ","RICE",259815,504797
+"1189",2004,"JAMMU & KASHMIR               ","RICE",250044,492732
+"1190",2007,"JAMMU & KASHMIR               ","RICE",211617,439868
+"1191",2002,"JHARKHAND                     ","RICE",1059018.29,1063090.99137
+"1192",2003,"JHARKHAND                     ","RICE",2051720.69,1943353.09598
+"1193",2004,"JHARKHAND                     ","RICE",1134251.31,1006373.0216343
+"1194",2005,"JHARKHAND                     ","RICE",1104098.11,614026.720005
+"1195",2006,"JHARKHAND                     ","RICE",1179218.42,1429944.070667
+"1196",2007,"JHARKHAND                     ","RICE",1198054.31,1470623.9973
+"1197",1998,"KARNATAKA                     ","RICE",1426805,3656811
+"1198",1999,"KARNATAKA                     ","RICE",1449796,3716730
+"1199",2000,"KARNATAKA                     ","RICE",1483446,3846736
+"1200",2001,"KARNATAKA                     ","RICE",1417724,3234045
+"1201",2002,"KARNATAKA                     ","RICE",1154783,2390085
+"1202",2003,"KARNATAKA                     ","RICE",1073899,2550399
+"1203",2004,"KARNATAKA                     ","RICE",1308179,3706213
+"1204",2005,"KARNATAKA                     ","RICE",1485181,3999246
+"1205",2006,"KARNATAKA                     ","RICE",1395676,3645526
+"1206",2007,"KARNATAKA                     ","RICE",1404362,3835381
+"1207",2008,"KARNATAKA                     ","RICE",1499253,3989083
+"1208",2009,"KARNATAKA                     ","RICE",1474805,3843252
+"1209",1998,"KERALA                        ","RICE",352631,726743
+"1210",1999,"KERALA                        ","RICE",349774,770656
+"1211",2000,"KERALA                        ","RICE",347468,751340
+"1212",2001,"KERALA                        ","RICE",325704,710839
+"1213",2002,"KERALA                        ","RICE",310521,688859
+"1214",2003,"KERALA                        ","RICE",287340,570045.01
+"1215",2004,"KERALA                        ","RICE",289974,667105
+"1216",2005,"KERALA                        ","RICE",275742,629987
+"1217",2006,"KERALA                        ","RICE",263529,641575
+"1218",2007,"KERALA                        ","RICE",228938,528488
+"1219",2008,"KERALA                        ","RICE",234265,590241
+"1220",2009,"KERALA                        ","RICE",234013,598339
+"1221",1999,"MADHYA PRADESH                ","RICE",5603817,6765359
+"1222",2000,"MADHYA PRADESH                ","RICE",1697346,975274
+"1223",2001,"MADHYA PRADESH                ","RICE",1766150,1685799
+"1224",2002,"MADHYA PRADESH                ","RICE",1671107,1024930
+"1225",2003,"MADHYA PRADESH                ","RICE",1708583,1743430
+"1226",2004,"MADHYA PRADESH                ","RICE",1675513,1302615
+"1227",2005,"MADHYA PRADESH                ","RICE",1700446,1687475
+"1228",2007,"MADHYA PRADESH                ","RICE",1634910,1325175
+"1229",2008,"MADHYA PRADESH                ","RICE",1649143,1545524
+"1230",1999,"MAHARASHTRA                   ","RICE",1498500,2549300
+"1231",2000,"MAHARASHTRA                   ","RICE",1511500,1929700
+"1232",2001,"MAHARASHTRA                   ","RICE",1514000,2651200
+"1233",2002,"MAHARASHTRA                   ","RICE",1523300,1854100
+"1234",2003,"MAHARASHTRA                   ","RICE",1529900,2834100
+"1235",2004,"MAHARASHTRA                   ","RICE",1508700,2147200
+"1236",2005,"MAHARASHTRA                   ","RICE",1503000,2665900
+"1237",2006,"MAHARASHTRA                   ","RICE",1529300,2571700
+"1238",2007,"MAHARASHTRA                   ","RICE",36836,29128
+"1239",2008,"MAHARASHTRA                   ","RICE",1499500,2234210
+"1240",2009,"MAHARASHTRA                   ","RICE",1450000,2137114
+"1241",2010,"MAHARASHTRA                   ","RICE",1486200,2624900
+"1242",1998,"MANIPUR                       ","RICE",166890,382190
+"1243",1999,"MANIPUR                       ","RICE",157050,364980
+"1244",2000,"MANIPUR                       ","RICE",156890,381750
+"1245",2001,"MANIPUR                       ","RICE",162570,387270
+"1246",2002,"MANIPUR                       ","RICE",153110,335700
+"1247",2003,"MANIPUR                       ","RICE",157830,381240
+"1248",2004,"MANIPUR                       ","RICE",176310,435930
+"1249",2005,"MANIPUR                       ","RICE",166260,386070
+"1250",2006,"MANIPUR                       ","RICE",165370,389170
+"1251",2007,"MANIPUR                       ","RICE",166150,406150
+"1252",1998,"MEGHALYA                      ","RICE",105402,149742
+"1253",1999,"MEGHALYA                      ","RICE",106411,170733
+"1254",2000,"MEGHALYA                      ","RICE",106660,179042
+"1255",2001,"MEGHALYA                      ","RICE",107761,188971
+"1256",2002,"MEGHALYA                      ","RICE",107742,190937
+"1257",2003,"MEGHALYA                      ","RICE",109721,200703
+"1258",2004,"MEGHALYA                      ","RICE",111546,193719
+"1259",2005,"MEGHALYA                      ","RICE",106071,208277
+"1260",2007,"MEGHALYA                      ","RICE",106320,200077
+"1261",2008,"MEGHALYA                      ","RICE",108045,203862
+"1262",2009,"MEGHALYA                      ","RICE",108162,204129
+"1263",1998,"MIZORAM                       ","RICE",68392,110813
+"1264",1999,"MIZORAM                       ","RICE",49713,88397
+"1265",2000,"MIZORAM                       ","RICE",51839,103673
+"1266",2001,"MIZORAM                       ","RICE",55880,105713
+"1267",2002,"MIZORAM                       ","RICE",57067,109205
+"1268",2003,"MIZORAM                       ","RICE",59196,114630
+"1269",2004,"MIZORAM                       ","RICE",57085,107660
+"1270",2005,"MIZORAM                       ","RICE",56460,107740
+"1271",2006,"MIZORAM                       ","RICE",52851,29464
+"1272",2007,"MIZORAM                       ","RICE",54541,15688
+"1273",2008,"MIZORAM                       ","RICE",51990,68917
+"1274",2009,"MIZORAM                       ","RICE",47204,66131
+"1275",1999,"NAGALAND                      ","RICE",148000,222000
+"1276",2000,"NAGALAND                      ","RICE",151680,233330
+"1277",2001,"NAGALAND                      ","RICE",156500,237000
+"1278",2002,"NAGALAND                      ","RICE",150000,223400
+"1279",2003,"NAGALAND                      ","RICE",138390,222990
+"1280",2004,"NAGALAND                      ","RICE",154000,261750
+"1281",2005,"NAGALAND                      ","RICE",156400,263100
+"1282",2006,"NAGALAND                      ","RICE",164680,263520
+"1283",2007,"NAGALAND                      ","RICE",167500,311300
+"1284",2008,"NAGALAND                      ","RICE",146050,290460
+"1285",2010,"NAGALAND                      ","RICE",152800,324160
+"1286",1998,"ORISSA                        ","RICE",4446713,5391322
+"1287",1999,"ORISSA                        ","RICE",4602000,5186000
+"1288",2000,"ORISSA                        ","RICE",4433520,4613380
+"1289",2001,"ORISSA                        ","RICE",4500000,7148460
+"1290",2002,"ORISSA                        ","RICE",4273000,3243900
+"1291",2003,"ORISSA                        ","RICE",4501000,10203000
+"1292",2004,"ORISSA                        ","RICE",4492000,6537000
+"1293",2005,"ORISSA                        ","RICE",8958000,13717000
+"1294",2006,"ORISSA                        ","RICE",4451000,6823000
+"1295",2007,"ORISSA                        ","RICE",4452000,7540000
+"1296",2008,"ORISSA                        ","RICE",4455000,6812000
+"1297",2009,"ORISSA                        ","RICE",4364000,6913000
+"1298",1999,"PONDICHERRY                   ","RICE",25444,59433
+"1299",2000,"PONDICHERRY                   ","RICE",42779,103606
+"1300",2001,"PONDICHERRY                   ","RICE",26263,66868
+"1301",2002,"PONDICHERRY                   ","RICE",24142,57514
+"1302",2003,"PONDICHERRY                   ","RICE",25065,67003
+"1303",2004,"PONDICHERRY                   ","RICE",24822,61036
+"1304",2005,"PONDICHERRY                   ","RICE",22925,53617
+"1305",1998,"PUNJAB                        ","RICE",2519000,7940000
+"1306",1999,"PUNJAB                        ","RICE",2604000,8716000
+"1307",2000,"PUNJAB                        ","RICE",2611000,9154000
+"1308",2001,"PUNJAB                        ","RICE",2487000,8816000
+"1309",2002,"PUNJAB                        ","RICE",2530000,8880000
+"1310",2003,"PUNJAB                        ","RICE",2614000,9656000
+"1311",2004,"PUNJAB                        ","RICE",2800000,10437000
+"1312",2005,"PUNJAB                        ","RICE",2642000,10193000
+"1313",2006,"PUNJAB                        ","RICE",2419000,9542000
+"1314",2007,"PUNJAB                        ","RICE",2311000,9381000
+"1315",2008,"PUNJAB                        ","RICE",2437000,9902000
+"1316",2009,"PUNJAB                        ","RICE",2496000,10112000
+"1317",2010,"PUNJAB                        ","RICE",2517000,9745000
+"1318",1999,"RAJASTHAN                     ","RICE",200162,252554
+"1319",2000,"RAJASTHAN                     ","RICE",166275,155716
+"1320",2001,"RAJASTHAN                     ","RICE",144378,180048
+"1321",2002,"RAJASTHAN                     ","RICE",83584,67932
+"1322",2003,"RAJASTHAN                     ","RICE",99709,164819.7
+"1323",2004,"RAJASTHAN                     ","RICE",101361,150413
+"1324",2005,"RAJASTHAN                     ","RICE",107492,153074
+"1325",2006,"RAJASTHAN                     ","RICE",107758,169823
+"1326",2007,"RAJASTHAN                     ","RICE",127831,259657
+"1327",2008,"RAJASTHAN                     ","RICE",131888,238317
+"1328",2009,"RAJASTHAN                     ","RICE",149164,225966
+"1329",1998,"SIKKIM                        ","RICE",15874,21957
+"1330",1999,"SIKKIM                        ","RICE",15908,23439
+"1331",2000,"SIKKIM                        ","RICE",15218,21358
+"1332",2001,"SIKKIM                        ","RICE",14900,21372
+"1333",2002,"SIKKIM                        ","RICE",14790,21220
+"1334",2003,"SIKKIM                        ","RICE",14740,21190
+"1335",2004,"SIKKIM                        ","RICE",14740,21610
+"1336",2005,"SIKKIM                        ","RICE",14740,23690
+"1337",2006,"SIKKIM                        ","RICE",14150,21450
+"1338",2007,"SIKKIM                        ","RICE",11860,19480
+"1339",2008,"SIKKIM                        ","RICE",13000,22230
+"1340",2009,"SIKKIM                        ","RICE",12270,20930
+"1341",2010,"SIKKIM                        ","RICE",12140,20973
+"1342",1998,"TAMIL NADU                    ","RICE",2386399,8215286
+"1343",1999,"TAMIL NADU                    ","RICE",2204046,7225373
+"1344",2000,"TAMIL NADU                    ","RICE",2080010,7366420
+"1345",2001,"TAMIL NADU                    ","RICE",2059878,6583630
+"1346",2002,"TAMIL NADU                    ","RICE",1516537,3577108
+"1347",2003,"TAMIL NADU                    ","RICE",1396651,3222776
+"1348",2004,"TAMIL NADU                    ","RICE",1872822,5061622
+"1349",2005,"TAMIL NADU                    ","RICE",2050455,5209433
+"1350",2006,"TAMIL NADU                    ","RICE",1931397,6610607
+"1351",2007,"TAMIL NADU                    ","RICE",1789170,5039954
+"1352",2008,"TAMIL NADU                    ","RICE",1895969,5183385
+"1353",2009,"TAMIL NADU                    ","RICE",1845553,5665258
+"1354",1999,"TRIPURA                       ","RICE",232160,505680
+"1355",2000,"TRIPURA                       ","RICE",243070,547520
+"1356",2001,"TRIPURA                       ","RICE",246750,587390
+"1357",2002,"TRIPURA                       ","RICE",255270,602410
+"1358",2003,"TRIPURA                       ","RICE",257440,616820
+"1359",2006,"TRIPURA                       ","RICE",250942,628200
+"1360",1999,"UTTAR PRADESH                 ","RICE",6085874,13246725
+"1361",2000,"UTTAR PRADESH                 ","RICE",5907151,11679149
+"1362",2001,"UTTAR PRADESH                 ","RICE",6071325,12855857
+"1363",2002,"UTTAR PRADESH                 ","RICE",5213429,9596346
+"1364",2003,"UTTAR PRADESH                 ","RICE",5727772,12494939
+"1365",2004,"UTTAR PRADESH                 ","RICE",5934405,10749989
+"1366",2005,"UTTAR PRADESH                 ","RICE",5571524,11119095
+"1367",2006,"UTTAR PRADESH                 ","RICE",5920752,11123613
+"1368",2007,"UTTAR PRADESH                 ","RICE",5709388,11780112
+"1369",2008,"UTTAR PRADESH                 ","RICE",6033382,13097031
+"1370",2009,"UTTAR PRADESH                 ","RICE",5172741,10776504
+"1371",2010,"UTTAR PRADESH                 ","RICE",5543756,11755359
+"1372",2000,"UTTARANCHAL                   ","RICE",288607,588652
+"1373",2001,"UTTARANCHAL                   ","RICE",284577,579517
+"1374",2002,"UTTARANCHAL                   ","RICE",275309,523175
+"1375",2003,"UTTARANCHAL                   ","RICE",277326,541957
+"1376",2004,"UTTARANCHAL                   ","RICE",288975,560243
+"1377",2005,"UTTARANCHAL                   ","RICE",284430,569166
+"1378",2006,"UTTARANCHAL                   ","RICE",283585,571336
+"1379",2007,"UTTARANCHAL                   ","RICE",272169,565067
+"1380",2008,"UTTARANCHAL                   ","RICE",288365,568321
+"1381",2009,"UTTARANCHAL                   ","RICE",284383,591016
+"1382",1999,"WEST BENGAL                   ","RICE",6150439,13759680
+"1383",2000,"WEST BENGAL                   ","RICE",5435323,12428038
+"1384",2001,"WEST BENGAL                   ","RICE",5503087,13815548
+"1385",2002,"WEST BENGAL                   ","RICE",5732138,14073099
+"1386",2003,"WEST BENGAL                   ","RICE",5739492,14326481
+"1387",2004,"WEST BENGAL                   ","RICE",5783613,14884889
+"1388",2005,"WEST BENGAL                   ","RICE",5782949,14510742
+"1389",2006,"WEST BENGAL                   ","RICE",5687028,14745892
+"1390",2007,"WEST BENGAL                   ","RICE",5719755,14719520
+"1391",2008,"WEST BENGAL                   ","RICE",5935696,15037240
+"1392",2009,"WEST BENGAL                   ","RICE",5630095,14340605
+"1393",1998,"ANDHRA PRADESH                ","SAMAI",28400,14300
+"1394",2000,"ANDHRA PRADESH                ","SAMAI",32155,14135
+"1395",2001,"ANDHRA PRADESH                ","SAMAI",30346,14953
+"1396",2003,"ANDHRA PRADESH                ","SAMAI",23470,9552
+"1397",1999,"TAMIL NADU                    ","SAMAI",58471,48503
+"1398",2002,"TAMIL NADU                    ","SAMAI",42919,31032
+"1399",1998,"ANDHRA PRADESH                ","VARAGU",1700,1500
+"1400",2000,"ANDHRA PRADESH                ","VARAGU",1609,1216
+"1401",2001,"ANDHRA PRADESH                ","VARAGU",807,671
+"1402",2002,"ANDHRA PRADESH                ","VARAGU",2000,1000
+"1403",2003,"ANDHRA PRADESH                ","VARAGU",719,385
+"1404",1999,"TAMIL NADU                    ","VARAGU",19937,22576
+"1405",2002,"TAMIL NADU                    ","VARAGU",14177,15789
+"1406",2003,"TAMIL NADU                    ","VARAGU",4317,4957
+"1407",1998,"ANDHRA PRADESH                ","WHEAT",11400,6400
+"1408",1999,"ANDHRA PRADESH                ","WHEAT",13515,9056
+"1409",2000,"ANDHRA PRADESH                ","WHEAT",14261,8121
+"1410",2001,"ANDHRA PRADESH                ","WHEAT",13789,9486
+"1411",2002,"ANDHRA PRADESH                ","WHEAT",11000,14000
+"1412",2003,"ANDHRA PRADESH                ","WHEAT",12000,7000
+"1413",2004,"ANDHRA PRADESH                ","WHEAT",9171,4605
+"1414",2005,"ANDHRA PRADESH                ","WHEAT",11109,8891
+"1415",2007,"ANDHRA PRADESH                ","WHEAT",8000,8000
+"1416",2008,"ANDHRA PRADESH                ","WHEAT",13687,15421
+"1417",2009,"ANDHRA PRADESH                ","WHEAT",9872,10319
+"1418",1998,"ARUNACHAL PRADESH             ","WHEAT",3660,4395
+"1419",1999,"ARUNACHAL PRADESH             ","WHEAT",3896,5069
+"1420",2000,"ARUNACHAL PRADESH             ","WHEAT",4397,6226
+"1421",2001,"ARUNACHAL PRADESH             ","WHEAT",3805,5341
+"1422",2002,"ARUNACHAL PRADESH             ","WHEAT",3929,5979
+"1423",2003,"ARUNACHAL PRADESH             ","WHEAT",4150,6320
+"1424",2004,"ARUNACHAL PRADESH             ","WHEAT",4278,6652
+"1425",2005,"ARUNACHAL PRADESH             ","WHEAT",3976,6140
+"1426",2006,"ARUNACHAL PRADESH             ","WHEAT",3979,6301
+"1427",2007,"ARUNACHAL PRADESH             ","WHEAT",3558,5294
+"1428",2008,"ARUNACHAL PRADESH             ","WHEAT",3278,5169
+"1429",2009,"ARUNACHAL PRADESH             ","WHEAT",3170,4770
+"1430",2010,"ARUNACHAL PRADESH             ","WHEAT",3699,5872
+"1431",1998,"ASSAM                         ","WHEAT",89591,90509
+"1432",1999,"ASSAM                         ","WHEAT",76310,97583
+"1433",2000,"ASSAM                         ","WHEAT",70301,85695
+"1434",2001,"ASSAM                         ","WHEAT",72245,85300
+"1435",2002,"ASSAM                         ","WHEAT",69061,77952
+"1436",2003,"ASSAM                         ","WHEAT",69954,73186
+"1437",2004,"ASSAM                         ","WHEAT",63854,68083
+"1438",2005,"ASSAM                         ","WHEAT",49957,53731
+"1439",2006,"ASSAM                         ","WHEAT",59573,67413
+"1440",2007,"ASSAM                         ","WHEAT",56069,70797
+"1441",2008,"ASSAM                         ","WHEAT",50053,54551
+"1442",2009,"ASSAM                         ","WHEAT",60067,65301
+"1443",2010,"ASSAM                         ","WHEAT",44772,56216
+"1444",1998,"BIHAR                         ","WHEAT",2121335,4403655
+"1445",1999,"BIHAR                         ","WHEAT",2080847,4583515
+"1446",2000,"BIHAR                         ","WHEAT",2067333,4437958
+"1447",2001,"BIHAR                         ","WHEAT",2181543,4499130
+"1448",2002,"BIHAR                         ","WHEAT",2130933,4040610
+"1449",2003,"BIHAR                         ","WHEAT",2076839,3688941
+"1450",2004,"BIHAR                         ","WHEAT",2027643,3263385
+"1451",2005,"BIHAR                         ","WHEAT",2001771,2821120
+"1452",2006,"BIHAR                         ","WHEAT",2076727,4155541
+"1453",2007,"BIHAR                         ","WHEAT",2131232,4977463
+"1454",2008,"BIHAR                         ","WHEAT",2158345,4413017
+"1455",1998,"CHANDIGARH                    ","WHEAT",880,3960
+"1456",1999,"CHANDIGARH                    ","WHEAT",800,3600
+"1457",2000,"CHANDIGARH                    ","WHEAT",750,3375
+"1458",2001,"CHANDIGARH                    ","WHEAT",750,3350
+"1459",2002,"CHANDIGARH                    ","WHEAT",700,3315
+"1460",2003,"CHANDIGARH                    ","WHEAT",650,3000
+"1461",2004,"CHANDIGARH                    ","WHEAT",600,2400
+"1462",2005,"CHANDIGARH                    ","WHEAT",600,2750
+"1463",2006,"CHANDIGARH                    ","WHEAT",600,2800
+"1464",2007,"CHANDIGARH                    ","WHEAT",600,2800
+"1465",2008,"CHANDIGARH                    ","WHEAT",600,2700
+"1466",2009,"CHANDIGARH                    ","WHEAT",600,2700
+"1467",2010,"CHANDIGARH                    ","WHEAT",600,2715
+"1468",2000,"CHHATTISGARH                  ","WHEAT",77844,79488
+"1469",2001,"CHHATTISGARH                  ","WHEAT",97861,103480
+"1470",2002,"CHHATTISGARH                  ","WHEAT",93846,98592
+"1471",2003,"CHHATTISGARH                  ","WHEAT",106109,113138
+"1472",2004,"CHHATTISGARH                  ","WHEAT",99245,85215
+"1473",2005,"CHHATTISGARH                  ","WHEAT",97074,85191
+"1474",2006,"CHHATTISGARH                  ","WHEAT",93201,93952
+"1475",2007,"CHHATTISGARH                  ","WHEAT",95006,104524
+"1476",2008,"CHHATTISGARH                  ","WHEAT",94821,97410
+"1477",2009,"CHHATTISGARH                  ","WHEAT",109151,118901
+"1478",2010,"CHHATTISGARH                  ","WHEAT",103684,121712
+"1479",1999,"D & N HAVELI                  ","WHEAT",715,1236
+"1480",2000,"D & N HAVELI                  ","WHEAT",710,1500
+"1481",2001,"D & N HAVELI                  ","WHEAT",735,1441
+"1482",2002,"D & N HAVELI                  ","WHEAT",750,1470
+"1483",2003,"D & N HAVELI                  ","WHEAT",750,1470
+"1484",2004,"D & N HAVELI                  ","WHEAT",750,1470
+"1485",2005,"D & N HAVELI                  ","WHEAT",750,1500
+"1486",1998,"DELHI                         ","WHEAT",31037,107729
+"1487",1999,"DELHI                         ","WHEAT",33505,122058
+"1488",2000,"DELHI                         ","WHEAT",27836,97927
+"1489",2001,"DELHI                         ","WHEAT",26114,91660
+"1490",2002,"DELHI                         ","WHEAT",19860,79718
+"1491",2003,"DELHI                         ","WHEAT",18973,82893
+"1492",2004,"DELHI                         ","WHEAT",18695,80800
+"1493",2005,"DELHI                         ","WHEAT",18279,79404
+"1494",2006,"DELHI                         ","WHEAT",17884,77885
+"1495",2007,"DELHI                         ","WHEAT",17482,76222
+"1496",1998,"GUJARAT                       ","WHEAT",705400,1702600
+"1497",1999,"GUJARAT                       ","WHEAT",482100,1020000
+"1498",2000,"GUJARAT                       ","WHEAT",286100,649000
+"1499",2001,"GUJARAT                       ","WHEAT",470100,1144700
+"1500",2002,"GUJARAT                       ","WHEAT",435600,856600
+"1501",2003,"GUJARAT                       ","WHEAT",759500,2036500
+"1502",2004,"GUJARAT                       ","WHEAT",727400,1805500
+"1503",2005,"GUJARAT                       ","WHEAT",858800,2319200
+"1504",2006,"GUJARAT                       ","WHEAT",1072300,2791500
+"1505",2007,"GUJARAT                       ","WHEAT",1273900,3837700
+"1506",2008,"GUJARAT                       ","WHEAT",1091400,2592600
+"1507",2009,"GUJARAT                       ","WHEAT",878000,2351300
+"1508",2010,"GUJARAT                       ","WHEAT",1588600,5013400
+"1509",1998,"HARYANA                       ","WHEAT",2185662,8527000
+"1510",1999,"HARYANA                       ","WHEAT",2316531,9650000
+"1511",2000,"HARYANA                       ","WHEAT",2354779,9669000
+"1512",2001,"HARYANA                       ","WHEAT",2299876,9437000
+"1513",2002,"HARYANA                       ","WHEAT",2267140,9188000
+"1514",2003,"HARYANA                       ","WHEAT",2315496,9114000
+"1515",2004,"HARYANA                       ","WHEAT",2316674,9043000
+"1516",2005,"HARYANA                       ","WHEAT",2302682,8502000
+"1517",2006,"HARYANA                       ","WHEAT",2377067,10059000
+"1518",2007,"HARYANA                       ","WHEAT",2460680,10232000
+"1519",2008,"HARYANA                       ","WHEAT",2461420,11360000
+"1520",2009,"HARYANA                       ","WHEAT",2487756,10488000
+"1521",1998,"HIMACHAL PRADESH              ","WHEAT",379718,481267
+"1522",1999,"HIMACHAL PRADESH              ","WHEAT",370587,583300
+"1523",2000,"HIMACHAL PRADESH              ","WHEAT",362660,261319
+"1524",2001,"HIMACHAL PRADESH              ","WHEAT",366518,637068
+"1525",2002,"HIMACHAL PRADESH              ","WHEAT",359439,495558
+"1526",2003,"HIMACHAL PRADESH              ","WHEAT",365359,496930
+"1527",2004,"HIMACHAL PRADESH              ","WHEAT",367770,687452
+"1528",2005,"HIMACHAL PRADESH              ","WHEAT",358453,365885
+"1529",2006,"HIMACHAL PRADESH              ","WHEAT",362245,596493
+"1530",2007,"HIMACHAL PRADESH              ","WHEAT",366592,504360
+"1531",2008,"HIMACHAL PRADESH              ","WHEAT",359961,381180
+"1532",2000,"JAMMU & KASHMIR               ","WHEAT",280968,148710
+"1533",2001,"JAMMU & KASHMIR               ","WHEAT",259605,342980
+"1534",2002,"JAMMU & KASHMIR               ","WHEAT",248168,405490
+"1535",2003,"JAMMU & KASHMIR               ","WHEAT",254657,459380
+"1536",2004,"JAMMU & KASHMIR               ","WHEAT",252987,478255
+"1537",2007,"JAMMU & KASHMIR               ","WHEAT",225326,423460
+"1538",2002,"JHARKHAND                     ","WHEAT",57203.69,78366.24
+"1539",2003,"JHARKHAND                     ","WHEAT",60269.7,80181.21
+"1540",2004,"JHARKHAND                     ","WHEAT",57905.58,72740.85
+"1541",2005,"JHARKHAND                     ","WHEAT",50326.23,51264
+"1542",2006,"JHARKHAND                     ","WHEAT",124418.04,163905
+"1543",2007,"JHARKHAND                     ","WHEAT",54845.72,68534
+"1544",1998,"KARNATAKA                     ","WHEAT",268981,219433
+"1545",1999,"KARNATAKA                     ","WHEAT",261275,217613
+"1546",2000,"KARNATAKA                     ","WHEAT",266310,249880
+"1547",2001,"KARNATAKA                     ","WHEAT",260486,198822
+"1548",2002,"KARNATAKA                     ","WHEAT",246855,147748
+"1549",2003,"KARNATAKA                     ","WHEAT",231994,96150
+"1550",2004,"KARNATAKA                     ","WHEAT",241991,206296
+"1551",2005,"KARNATAKA                     ","WHEAT",252588,226369
+"1552",2006,"KARNATAKA                     ","WHEAT",269494,223806
+"1553",2007,"KARNATAKA                     ","WHEAT",275583,280384
+"1554",2008,"KARNATAKA                     ","WHEAT",268600,257181
+"1555",2009,"KARNATAKA                     ","WHEAT",283427,263877
+"1556",1999,"MADHYA PRADESH                ","WHEAT",4661524,8685197
+"1557",2000,"MADHYA PRADESH                ","WHEAT",3299120,4861992
+"1558",2001,"MADHYA PRADESH                ","WHEAT",3691707,5993596
+"1559",2002,"MADHYA PRADESH                ","WHEAT",3369481,4916044
+"1560",2003,"MADHYA PRADESH                ","WHEAT",4078974,7357255
+"1561",2004,"MADHYA PRADESH                ","WHEAT",4188248,7320042
+"1562",2005,"MADHYA PRADESH                ","WHEAT",3772615,6192368
+"1563",2007,"MADHYA PRADESH                ","WHEAT",4089343,6729363
+"1564",2008,"MADHYA PRADESH                ","WHEAT",3951383,7218045
+"1565",1999,"MAHARASHTRA                   ","WHEAT",1041800,1425900
+"1566",2000,"MAHARASHTRA                   ","WHEAT",754200,947600
+"1567",2001,"MAHARASHTRA                   ","WHEAT",776000,1077400
+"1568",2002,"MAHARASHTRA                   ","WHEAT",759800,983900
+"1569",2003,"MAHARASHTRA                   ","WHEAT",664700,778200
+"1570",2004,"MAHARASHTRA                   ","WHEAT",755700,1016300
+"1571",2005,"MAHARASHTRA                   ","WHEAT",932800,1300700
+"1572",2006,"MAHARASHTRA                   ","WHEAT",1230800,1871000
+"1573",2007,"MAHARASHTRA                   ","WHEAT",10030,19875
+"1574",2008,"MAHARASHTRA                   ","WHEAT",1021800,1517300
+"1575",2009,"MAHARASHTRA                   ","WHEAT",1080900,1740200
+"1576",2010,"MAHARASHTRA                   ","WHEAT",1306600,2300800
+"1577",1998,"MEGHALYA                      ","WHEAT",4287,6998
+"1578",2000,"MEGHALYA                      ","WHEAT",4215,6892
+"1579",2001,"MEGHALYA                      ","WHEAT",2753,4812
+"1580",2002,"MEGHALYA                      ","WHEAT",2714,4745
+"1581",2003,"MEGHALYA                      ","WHEAT",862,1540
+"1582",2004,"MEGHALYA                      ","WHEAT",1564,863
+"1583",2005,"MEGHALYA                      ","WHEAT",670,1198
+"1584",2007,"MEGHALYA                      ","WHEAT",622,1120
+"1585",2008,"MEGHALYA                      ","WHEAT",416,739
+"1586",2009,"MEGHALYA                      ","WHEAT",405,718
+"1587",1998,"MIZORAM                       ","WHEAT",55,48
+"1588",1999,"MIZORAM                       ","WHEAT",43,38
+"1589",2004,"MIZORAM                       ","WHEAT",3,4
+"1590",2000,"NAGALAND                      ","WHEAT",5000,10000
+"1591",2001,"NAGALAND                      ","WHEAT",6000,12350
+"1592",2002,"NAGALAND                      ","WHEAT",7650,15820
+"1593",2003,"NAGALAND                      ","WHEAT",10000,19500
+"1594",2004,"NAGALAND                      ","WHEAT",8200,13000
+"1595",2005,"NAGALAND                      ","WHEAT",1200,1920
+"1596",2006,"NAGALAND                      ","WHEAT",1500,1250
+"1597",2007,"NAGALAND                      ","WHEAT",1150,1800
+"1598",2008,"NAGALAND                      ","WHEAT",1260,1890
+"1599",2010,"NAGALAND                      ","WHEAT",2800,4770
+"1600",1998,"ORISSA                        ","WHEAT",3868,4441
+"1601",1999,"ORISSA                        ","WHEAT",5922,7676.1
+"1602",2000,"ORISSA                        ","WHEAT",8819,12902.9
+"1603",2001,"ORISSA                        ","WHEAT",6976,10566.9
+"1604",2002,"ORISSA                        ","WHEAT",4627,5768.1
+"1605",2003,"ORISSA                        ","WHEAT",5129,7515.6
+"1606",2004,"ORISSA                        ","WHEAT",4054,5312.5
+"1607",2005,"ORISSA                        ","WHEAT",6552,8968.6
+"1608",2006,"ORISSA                        ","WHEAT",3913,5802.3
+"1609",2007,"ORISSA                        ","WHEAT",5548,8722.5
+"1610",2008,"ORISSA                        ","WHEAT",5267,7385
+"1611",2009,"ORISSA                        ","WHEAT",3994,5782.4
+"1612",1998,"PUNJAB                        ","WHEAT",3338000,14460000
+"1613",1999,"PUNJAB                        ","WHEAT",3388000,15910000
+"1614",2000,"PUNJAB                        ","WHEAT",3408000,15551000
+"1615",2001,"PUNJAB                        ","WHEAT",3420000,15499000
+"1616",2002,"PUNJAB                        ","WHEAT",3375000,14175000
+"1617",2003,"PUNJAB                        ","WHEAT",3444000,14489000
+"1618",2004,"PUNJAB                        ","WHEAT",3482000,14698000
+"1619",2005,"PUNJAB                        ","WHEAT",3468000,14493000
+"1620",2006,"PUNJAB                        ","WHEAT",3234000,13645000
+"1621",2007,"PUNJAB                        ","WHEAT",3143000,14175000
+"1622",2008,"PUNJAB                        ","WHEAT",3117000,14115000
+"1623",2009,"PUNJAB                        ","WHEAT",3169000,13640000
+"1624",2010,"PUNJAB                        ","WHEAT",3156000,14823000
+"1625",1999,"RAJASTHAN                     ","WHEAT",2650187,6731931
+"1626",2000,"RAJASTHAN                     ","WHEAT",2309637,5547100
+"1627",2001,"RAJASTHAN                     ","WHEAT",2287498,6389030
+"1628",2002,"RAJASTHAN                     ","WHEAT",1800659,4878020
+"1629",2003,"RAJASTHAN                     ","WHEAT",2103059,5875862
+"1630",2004,"RAJASTHAN                     ","WHEAT",2010241,5706871
+"1631",2005,"RAJASTHAN                     ","WHEAT",2123910,5865293
+"1632",2006,"RAJASTHAN                     ","WHEAT",2564840,7755883
+"1633",2007,"RAJASTHAN                     ","WHEAT",2592188,7126040
+"1634",2008,"RAJASTHAN                     ","WHEAT",2250248,7170445
+"1635",2009,"RAJASTHAN                     ","WHEAT",2346515,7342756
+"1636",1998,"SIKKIM                        ","WHEAT",7941,6416
+"1637",1999,"SIKKIM                        ","WHEAT",8100,12849
+"1638",2000,"SIKKIM                        ","WHEAT",7215,10103
+"1639",2001,"SIKKIM                        ","WHEAT",8710,10485
+"1640",2002,"SIKKIM                        ","WHEAT",8330,10400
+"1641",2003,"SIKKIM                        ","WHEAT",6805,8686
+"1642",2004,"SIKKIM                        ","WHEAT",5740,8250
+"1643",2005,"SIKKIM                        ","WHEAT",5740,9200
+"1644",2006,"SIKKIM                        ","WHEAT",6380,10360
+"1645",2007,"SIKKIM                        ","WHEAT",4460,4460
+"1646",2008,"SIKKIM                        ","WHEAT",3900,3500
+"1647",2009,"SIKKIM                        ","WHEAT",5200,4720
+"1648",2010,"SIKKIM                        ","WHEAT",2650,2710
+"1649",1998,"TAMIL NADU                    ","WHEAT",700,34
+"1650",1999,"TAMIL NADU                    ","WHEAT",34,16
+"1651",2000,"TAMIL NADU                    ","WHEAT",124,60
+"1652",2002,"TAMIL NADU                    ","WHEAT",17,0
+"1653",1999,"TRIPURA                       ","WHEAT",1250,2400
+"1654",2000,"TRIPURA                       ","WHEAT",1065,2230
+"1655",2001,"TRIPURA                       ","WHEAT",1220,2455
+"1656",2002,"TRIPURA                       ","WHEAT",919,1827
+"1657",2003,"TRIPURA                       ","WHEAT",895,1810
+"1658",2006,"TRIPURA                       ","WHEAT",970,1845
+"1659",1999,"UTTAR PRADESH                 ","WHEAT",9381878,26050768
+"1660",2000,"UTTAR PRADESH                 ","WHEAT",9239311,25168332
+"1661",2001,"UTTAR PRADESH                 ","WHEAT",9255937,25498002
+"1662",2002,"UTTAR PRADESH                 ","WHEAT",9162749,23745162
+"1663",2003,"UTTAR PRADESH                 ","WHEAT",9443104,26349910
+"1664",2004,"UTTAR PRADESH                 ","WHEAT",9373402,23430044
+"1665",2005,"UTTAR PRADESH                 ","WHEAT",9163949,23573776
+"1666",2006,"UTTAR PRADESH                 ","WHEAT",9197642,25443428
+"1667",2007,"UTTAR PRADESH                 ","WHEAT",9114880,25679089
+"1668",2008,"UTTAR PRADESH                 ","WHEAT",9513039,28554178
+"1669",2009,"UTTAR PRADESH                 ","WHEAT",9668152,27518022
+"1670",2010,"UTTAR PRADESH                 ","WHEAT",9553436,29768523
+"1671",2000,"UTTARANCHAL                   ","WHEAT",377340,711036
+"1672",2001,"UTTARANCHAL                   ","WHEAT",375967,721618
+"1673",2002,"UTTARANCHAL                   ","WHEAT",374802,721653
+"1674",2003,"UTTARANCHAL                   ","WHEAT",383387,729653
+"1675",2004,"UTTARANCHAL                   ","WHEAT",387103,799221
+"1676",2005,"UTTARANCHAL                   ","WHEAT",379237,642216
+"1677",2006,"UTTARANCHAL                   ","WHEAT",377870,796548
+"1678",2007,"UTTARANCHAL                   ","WHEAT",372919,798233
+"1679",2008,"UTTARANCHAL                   ","WHEAT",379081,770934
+"1680",2009,"UTTARANCHAL                   ","WHEAT",372846,829319
+"1681",1999,"WEST BENGAL                   ","WHEAT",364155,850778
+"1682",2000,"WEST BENGAL                   ","WHEAT",426000,1057610
+"1683",2001,"WEST BENGAL                   ","WHEAT",450399,963599
+"1684",2002,"WEST BENGAL                   ","WHEAT",416697,904839
+"1685",2003,"WEST BENGAL                   ","WHEAT",437854,1007811
+"1686",2004,"WEST BENGAL                   ","WHEAT",400093,841471
+"1687",2005,"WEST BENGAL                   ","WHEAT",366729,773514
+"1688",2006,"WEST BENGAL                   ","WHEAT",350621,799876
+"1689",2007,"WEST BENGAL                   ","WHEAT",352579,917284
+"1690",2008,"WEST BENGAL                   ","WHEAT",306985,764528
+"1691",2009,"WEST BENGAL                   ","WHEAT",315888,846657

@@ -1,0 +1,78 @@
+---
+title: "Shiny App Project"
+author: "kannan sundararaman"
+date: "Sunday, June 21, 2015"
+output: html_document
+---
+
+# COURSERA - Developing Data Products - Shiny App project.
+
+### Application requirement outline by coursera.
+
+Some form of input (widget: textbox, radio button, checkbox, ...)
+Some operation on the ui input in sever.R
+Some reactive output displayed as a result of server calculations
+You must also include enough documentation so that a novice user could use your application.
+The documentation should be at the Shiny website itself. Do not post to an external link
+
+---------------------------------------------------
+
+
+Select the state, year, crop and the plot area will be reactive to the selection.  In case of 
+no data found the plot area will be blank. 
+
+There are 4 types of the chart presented.
+
+1. All India all crops :  
+          This is summary of all India all crops over the period of 1998 and 2010
+          this will remain same for all the selection.
+
+2. Selected state, crop yearwise
+          This is for a selected state and the selected crop the production on year wise.
+          the change of selection in the year will not change this chart.
+
+3. Top states for year and crop
+          For the selected year and the crop, which states are the top n producers.
+          change in the state selection will not change this chart.
+          
+4. For the state and Year all crops
+          For the selected state and year all crops produced. 
+          change in the crop will not change this chart.
+
+===================================================
+
+The server script does the subset and the aggregation depends on the selection creteria.
+
+===================================================
+
+## Dataset 
+
+Production of grain crops in India over the period from 1998 to 2010 with the available data obtained from https://data.gov.in/ ODG platform. The data is cleaned and subset for the grain crops which is used as staple food across India.  
+
+
+## States 
+
+India is divided into states and the data is compiled in summary of states.  The states are 
+
+
+ [1] "ANDHRA"          "BIHAR"           "CHHATTISGARH"    "DELHI"           "GUJARAT"        
+ [6] "HARYANA"         "HIMACHAL"        "JAMMU & KASHMIR" "KARNATAKA"       "MADHYA"         
+[11] "MAHARASHTRA"     "NAGALAND"        "ORISSA"          "PONDICHERRY"     "PUNJAB"         
+[16] "RAJASTHAN"       "TAMIL NADU"      "UTTAR"           "UTTARANCHAL"     "WEST BENGAL"    
+[21] "JHARKHAND"       "SIKKIM"          "D & N HAVELI"    "KERALA"          "A & N ISLANDS"  
+[26] "ARUNACHAL"       "ASSAM"           "CHANDIGARH"      "MANIPUR"         "MEGHALYA"       
+[31] "MIZORAM"         "TRIPURA"         "GOA" 
+
+
+## Crops
+
+[1] "BAJRA"  "BARLEY" "JOWAR"  "KORRA"  "MAIZE"  "RAGI"   "RICE"   "SAMAI"  "VARAGU" "WHEAT" 
+
+Millets variety are BAJRA, RAGI, SAMAI, VARAGU  and Sorgham is called JOWAR 
+
+Over the period of years the millets production is reduced. and very small portion of the country is producing the crop.
+
+--------------------------------------
+
+Developing this app is a good starting point to look at how to develop ad present the data for public consumption.
+
